@@ -68,10 +68,6 @@ Sharry pour Home Assistant sans dépendances à Mariadb
 
 [:books: Sharry-dependency-less add-on documentation][addon-doc-sharry-dependency-less]
 
-## Changelog & Releases
-
-Pas de Changelog ici. Les Add-ons sont en constructions.
-
 ## Support
 
 Je ne suis pas dévellopeur, n'ai aucune formation de code, je suis simplement autodidact.
