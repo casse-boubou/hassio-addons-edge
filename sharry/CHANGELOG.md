@@ -1,4 +1,4 @@
-## What’s changed
+# What’s changed
 
 ## Suppressions de fonctions
 
