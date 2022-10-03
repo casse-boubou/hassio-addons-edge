@@ -4,7 +4,7 @@
 
 Un collection d'add-on pour HA faite par Frosch.
 
-## WARNING! C'est un repository d'add-ons en DEVELOPPEMENT!
+## WARNING! C'est un repository d'add-ons en DEVELOPPEMENT **!**
 
 Ce répertoire d'add-ons ne contient des add-ons en développement.
 
@@ -53,6 +53,21 @@ Sharry pour Home Assistant
 
 [:books: Sharry add-on documentation][addon-doc-sharry]
 
+### &#10003; [Sharry-dependency-less][addon-sharry-dependency-less]
+
+![Latest Version][sharry-version-shield]
+![Supports armhf Architecture][sharry-armhf-shield]
+![Supports armv7 Architecture][sharry-armv7-shield]
+![Supports aarch64 Architecture][sharry-aarch64-shield]
+![Supports amd64 Architecture][sharry-amd64-shield]
+![Supports i386 Architecture][sharry-i386-shield]
+
+Sharry pour Home Assistant sans dépendances à Mariadb
+
+[![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.][add-addon-shield]][add-addon-sharry-dependency-less]
+
+[:books: Sharry-dependency-less add-on documentation][addon-doc-sharry-dependency-less]
+
 ## Changelog & Releases
 
 Pas de Changelog ici. Les Add-ons sont en constructions.
@@ -91,9 +106,14 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 [addon-sharry]: https://github.com/erdnaxela02/addon-sharry/tree/v1.0.0
+[add-addon-sharry]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=c751e21a_sharry
 [addon-doc-sharry]: https://github.com/erdnaxela02/addon-sharry/blob/v1.0.0/README.md
 [sharry-version-shield]: https://img.shields.io/badge/version-v1.0.0-yellow.svg
-[add-addon-sharry]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=c751e21a_sharry
+
+[addon-sharry-dependency-less]: https://github.com/erdnaxela02/addon-sharry-dependency-less/tree/v1.0.0
+[add-addon-sharry-dependency-less]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=c751e21a_sharry-dependency-less
+[addon-doc-sharry-dependency-less]: https://github.com/erdnaxela02/addon-sharry-dependency-less/blob/v1.0.0/README.md
+
 [sharry-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [sharry-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [sharry-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
