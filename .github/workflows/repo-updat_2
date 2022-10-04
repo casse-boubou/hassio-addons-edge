@@ -3,6 +3,10 @@ name: Repository Updater
 
 # yamllint disable-line rule:truthy
 on:
+  workflow_dispatch:
+    secrets:
+      UPDATER_TOKEN:
+        required: true
   workflow_call:
     secrets:
       UPDATER_TOKEN:
