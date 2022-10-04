@@ -4,7 +4,7 @@
 
 Un collection d'add-on pour HA faite par Frosch.
 
-## WARNING! C'est un repository d'add-ons en DEVELOPPEMENT!
+## WARNING! C'est un repository d'add-ons en DEVELOPPEMENT **!**
 
 Ce répertoire d'add-ons ne contient des add-ons en développement.
 
