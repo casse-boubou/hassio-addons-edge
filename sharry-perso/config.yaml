@@ -44,6 +44,6 @@ services:
 - mysql:want
 slug: sharry-perso
 url: https://github.com/erdnaxela02/sharry2
-version: 894ab9f
+version: 7f1bcd6
 watchdog: http://[HOST]:9090/api/v2/open/info/version
 webui: http://[HOST]:[PORT:9090]
