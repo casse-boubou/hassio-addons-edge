@@ -4,7 +4,7 @@ arch:
 auth_api: true
 codenotary: codenotary@degatano.com
 description: Sharry for Home Assistant
-image: ghcr.io/erdnaxela02/sharry-dependency-less/{arch}
+image: ghcr.io/erdnaxela02/sharry2/{arch}
 init: false
 name: Sharry-dependency-less
 options:
