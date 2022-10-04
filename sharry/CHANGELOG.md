@@ -1,4 +1,5 @@
 # Changelog since v0.1.0
+- Update config.yaml 
 - Merge branch 'main' of https://github.com/erdnaxela02/addon-sharry 
 - Update build.yaml 
 - Prettified Code! 
