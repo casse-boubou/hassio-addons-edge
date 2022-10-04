@@ -47,3 +47,4 @@ url: https://github.com/erdnaxela02/sharry2
 version: 0.1.0
 watchdog: http://[HOST]:9090/api/v2/open/info/version
 webui: http://[HOST]:[PORT:9090]
+
