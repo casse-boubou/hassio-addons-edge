@@ -53,7 +53,7 @@ Sharry pour Home Assistant
 
 [:books: Sharry add-on documentation][addon-doc-sharry]
 
-### &#10003; [Sharry-dependency-less][addon-sharry-dependency-less]
+### &#10003; [Sharry2][addon-sharry-dependency-less]
 
 ![Latest Version][sharry-dependency-less-version-shield]
 ![Supports armhf Architecture][sharry-dependency-less-armhf-shield]
@@ -66,7 +66,7 @@ Sharry for Home Assistant
 
 [![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.][add-addon-shield]][add-addon-sharry-dependency-less]
 
-[:books: Sharry-dependency-less add-on documentation][addon-doc-sharry-dependency-less]
+[:books: Sharry2 add-on documentation][addon-doc-sharry-dependency-less]
 
 ## Support
 
