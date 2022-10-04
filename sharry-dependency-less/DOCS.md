@@ -1,4 +1,4 @@
-# Home Assistant Add-on: Sharry dependency-less
+# Home Assistant Add-on: Sharry
 
 ## Install
 
@@ -7,7 +7,7 @@ D'habord ajoutez le repertoire à l'add-on store de HomeAssistant (`https://gith
 [![Open your Home Assistant instance and show the add add-on repository dialog
 with a specific repository URL pre-filled.][add-repo-shield]][add-repo]
 
-Ensuite recherchez Sharry-dependency-less dans le store et cliquez sur installer:
+Ensuite recherchez Sharry dans le store et cliquez sur installer:
 
 [![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.][add-addon-shield]][add-addon]
 
@@ -30,9 +30,14 @@ Pour plus d'information vous pouvez consulter [Sharry coniguration][sharry-docs-
 
 ## Database Setup
 
-Cet add-on [Sharry][sharry] contient une base de données MariaDB pour
-stocker ses données. Vous n'aurez donc PAS BESOIN d'installer
-l'[addon MariaDB][addon-mariadb].
+[Sharry][sharry] nécessite une base de données Postgres ou MariaDB pour
+stocker ses données. Par défaut, il stockera ses données dans
+l'[addon MariaDB][addon-mariadb]. Cet add-on doit être installé et en cours
+d'exécution avant le démarrage. Vous n'avez besoin d'aucune configuration
+supplémentaire pour cela, tant que l'add-on MariaDB est en cours d'execution,
+Sharry pourra l'utiliser.
+
+[![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.][add-addon-shield]][add-addon-mariadb]
 
 Si vous le préférez, vous pouvez utiliser une base de données distante en
 remplissant toutes les options `remote_db_*` ci-dessous. Vous devrez créer
@@ -43,6 +48,13 @@ spécifiée afin de pouvoir configurer le schéma et gérer les données.
 Veuillez noter qu'il n'y a pas de chemin de mise à niveau facile entreces deux options.
 
 ## ⚠ Backing up Sharry
+
+Étant donné que Sharry ne stocke pas ses propres données, les snapshots de ce
+module complémentaire n'incluront que sa configuration. Vous devrez sauvegarder
+séparément les données afin de pouvoir les restaurer.
+
+Si vous utilisez le module complémentaire MariaDB, assurez-vous d'inclure
+également ce module complémentaire dans votre snapshots.
 
 Si vous utilisez une base de données différente, vous devrez configurer
 votre propre processus de sauvegarde.
@@ -224,40 +236,6 @@ complémentaire MariaDB, il n'essaiera pas de supprimer une base de
 données MySQL distante. De plus, une fois la base de données réinitialisée,
 cette option de configuration sera automatiquement désactivée pour l'addon._
 
-### Option: `database`
-
-Nom de la base de données creer dans Mariadb avec laquelle sharry va communiquer
-
-_Veuillez ne pas la changer pour assurer la
-compatibilitée_
-
-### Option: `logins`
-
-Identifiants creer par Mariadb afin de donner un acces à la base de données.
-
-#### Sub-option: `password`
-
-Mot de passe associé à l'identifiant
-
-#### Sub-option: `username`
-
-Nom de l'identifiant creer pour sharry.
-
-_Veuillez ne pas la changer pour assurer la compatibilitée. Ajouter en d'autres
-si vous en avez l'utilité pour d'autres add-ons_
-
-### Option: `rights`
-
-Associe un utilisateur à une base de donnée afin de lui en donner les droits d'acces
-
-#### Sub-option: `database`
-
-Base de données à laquel ont donne droit à l'acces
-
-#### Sub-option : `username`
-
-Utilisateur ayant droit d'acces à la base de données
-
 ## Changelog & Releases
 
 Vous pouvez consulter le changelog [GitHub ici][releases].
@@ -302,12 +280,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[add-addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=c751e21a_sharry-dependency-less
+[add-addon]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=c751e21a_sharry
 [add-addon-shield]: https://my.home-assistant.io/badges/supervisor_addon.svg
 [add-repo]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Ferdnaxela02%2Fhassio-addons
 [add-repo-shield]: https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg
-[default-config]: https://github.com/erdnaxela02/addon-sharry-dependency-less/blob/main/sharry/rootfs/etc/sharry/sharry.conf
+[add-addon-mariadb]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=core_mariadb
 [addon-mariadb]: https://github.com/home-assistant/addons/tree/master/mariadb
+[default-config]: https://github.com/erdnaxela02/addon-sharry/blob/main/sharry/rootfs/etc/sharry/sharry.conf
 [discord-ha]: https://discord.gg/c5DvZ4e
 [forum]: https://community.home-assistant.io
 [hacf]: https://forum.hacf.fr/
@@ -317,6 +296,6 @@ SOFTWARE.
 [iso-3166-1]: https://en.wikipedia.org/wiki/ISO_3166-1
 [mdegat01]: https://github.com/mdegat01
 [contributors]: https://github.com/mdegat01/addon-sharry/graphs/contributors
-[releases]: https://github.com/erdnaxela02/addon-sharry-dependency-less/releases
+[releases]: https://github.com/erdnaxela02/addon-sharry/releases
 [sharry]: https://eikek.github.io/sharry/
 [sharry-docs-configure]: https://eikek.github.io/sharry/doc/configure

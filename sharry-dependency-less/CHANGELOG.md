@@ -1,4 +1,8 @@
 # Changelog since v1.0.1
+- Update config.yaml 
+- test 
+- Update README.md 
+- sharry avec dependance test 
 - Update Dockerfile 
 - Update Dockerfile 
 - Update Dockerfile 
