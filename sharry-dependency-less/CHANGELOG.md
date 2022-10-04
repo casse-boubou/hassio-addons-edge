@@ -1,3 +1,3 @@
-# Changelog since v1.0.0
-- Update config.yaml 
-- Update config.yaml 
+# Changelog since v1.0.1
+- Update 30-config.sh 
+- Update 30-config.sh 
