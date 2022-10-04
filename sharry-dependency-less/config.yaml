@@ -3,7 +3,7 @@ arch:
 - amd64
 auth_api: true
 codenotary: erdnaxela02@hotmail.fr
-description: Sharry pour Home Assistant sans dependances à Mariadb
+description: Sharry pour Home Assistant sans dependances a Mariadb
 image: ghcr.io/erdnaxela02/sharry-dependency-less/{arch}
 init: false
 map:
