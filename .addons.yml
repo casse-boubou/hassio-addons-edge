@@ -5,7 +5,3 @@ addons:
     repository: erdnaxela02/addon-sharry
     target: sharry
     image: ghcr.io/erdnaxela02/sharry/{arch}
-  sharry2:
-    repository: erdnaxela02/sharry2
-    target: sharry
-    image: ghcr.io/erdnaxela02/sharry2/{arch}
