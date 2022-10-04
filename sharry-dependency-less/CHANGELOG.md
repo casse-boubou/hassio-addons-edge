@@ -1,4 +1,8 @@
 # Changelog since v1.0.1
+- Update deploy.yaml 
+- Update deploy.yaml 
+- Update config.yaml 
+- init 
 - test 
 - Update config.yaml 
 - test 
