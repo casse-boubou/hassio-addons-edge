@@ -308,7 +308,6 @@ SOFTWARE.
 [add-repo-shield]: https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg
 [default-config]: https://github.com/erdnaxela02/addon-sharry-dependency-less/blob/main/sharry/rootfs/etc/sharry/sharry.conf
 [addon-mariadb]: https://github.com/home-assistant/addons/tree/master/mariadb
-
 [discord-ha]: https://discord.gg/c5DvZ4e
 [forum]: https://community.home-assistant.io
 [hacf]: https://forum.hacf.fr/
