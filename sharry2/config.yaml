@@ -6,7 +6,7 @@ codenotary: codenotary@degatano.com
 description: Sharry for Home Assistant
 image: ghcr.io/erdnaxela02/sharry2/{arch}
 init: false
-name: Sharry2
+name: Sharry
 options:
   conf_overrides: []
   default_language: us
@@ -42,8 +42,8 @@ schema:
   use_ssl: bool?
 services:
 - mysql:want
-slug: sharry-dependency-less
+slug: sharry
 url: https://github.com/mdegat01/addon-sharry
-version: 396c6e6
+version: 2.0.2
 watchdog: http://[HOST]:9090/api/v2/open/info/version
 webui: http://[HOST]:[PORT:9090]
