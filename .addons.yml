@@ -8,4 +8,4 @@ addons:
   sharry2:
     repository: erdnaxela02/sharry2
     target: sharry
-    image: ghcr.io/erdnaxela02/sharry2/{arch}
+    image: ghcr.io/erdnaxela02/sharry-perso/{arch}
