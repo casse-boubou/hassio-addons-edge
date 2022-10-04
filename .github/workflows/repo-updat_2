@@ -1,5 +1,5 @@
 ---
-name: Repository Updater
+name: Repoupdater_2
 
 # yamllint disable-line rule:truthy
 on:
