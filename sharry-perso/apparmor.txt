@@ -9,7 +9,7 @@ include <tunables/global>
 @{do_usr}=@{fs_root}/usr/
 @{do_var}=@{fs_root}/var/
 
-profile sharry flags=(attach_disconnected,mediate_deleted) {
+profile sharry-perso flags=(attach_disconnected,mediate_deleted) {
   include <abstractions/base>
   include <abstractions/bash>
 
@@ -103,7 +103,7 @@ profile sharry flags=(attach_disconnected,mediate_deleted) {
     owner /tmp/**                                             rwm,
     @{PROC}/[1-9]*/coredump_filter                            rw,
     @{do_etc}/ssl/certs/java/**                               r,
-    @{do_run}/s6/{legacy-services,services}/sharry/           r,
+    @{do_run}/s6/{legacy-services,services}/sharry-perso/     r,
     @{PROC}/[1-9]*/net/{if_inet6,ipv6_route}                  r,
     @{PROC}/[1-9]*/{cgroup,cmdline,fd/,mountinfo,stat}        r,
     @{sys}/fs/cgroup/cpu,cpuacct/cpu.{shares,cfs_period_us,cfs_quota_us}  r,
