@@ -1,4 +1,5 @@
 # Changelog since v0.1.0
+- Update apparmor.txt 
 - Create 30-config.sh 
 - Delete 30-config.sh 
 - Update Dockerfile 
