@@ -1,4 +1,8 @@
 # Changelog since v0.1.0
+- Update deploy.yaml 
+- Update config.yaml 
+- Update config.yaml 
+- Update config.yaml 
 - Delete apparmor.txt 
 - Update apparmor.txt 
 - Create 30-config.sh 

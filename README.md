@@ -129,10 +129,10 @@ SOFTWARE.
 [sharry-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [sharry-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [sharry-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-sharryperso]: https://github.com/erdnaxela02/sharry2/tree/36e7e9d
-[addon-doc-sharryperso]: https://github.com/erdnaxela02/sharry2/blob/36e7e9d/README.md
+[addon-sharryperso]: https://github.com/erdnaxela02/sharry2/tree/df160ab
+[addon-doc-sharryperso]: https://github.com/erdnaxela02/sharry2/blob/df160ab/README.md
 [sharryperso-issue]: https://github.com/erdnaxela02/sharry2/issues
-[sharryperso-version-shield]: https://img.shields.io/badge/version-36e7e9d-yellow.svg
+[sharryperso-version-shield]: https://img.shields.io/badge/version-df160ab-yellow.svg
 [add-addon-sharryperso]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=7eb274d5_sharryperso
 [sharryperso-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [sharryperso-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
