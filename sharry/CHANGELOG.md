@@ -1,5 +1,3 @@
-## What’s changed
-
-## 🐛 Bug fixes
-
-- Set exit code in finish script @mdegat01 (#112)
+# Changelog since v0.1.0
+- Update deploy.yaml 
+- Update deploy.yaml 
