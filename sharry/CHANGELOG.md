@@ -1,22 +1,5 @@
-# Changelog since v0.1.0
-- Prettified Code! 
-- Update tasks.json 
-- Update tasks.json 
-- Update tasks.json 
-- try 
-- Update deploy.yaml 
-- Update config.yaml 
-- Update config.yaml 
-- Update config.yaml 
-- Delete apparmor.txt 
-- Update apparmor.txt 
-- Create 30-config.sh 
-- Delete 30-config.sh 
-- Update Dockerfile 
-- Merge branch 'main' of https://github.com/erdnaxela02/Sharry2 
-- Update tasks.json 
-- Prettified Code! 
-- Update tasks.json 
-- Update config.yaml 
-- Prettified Code! 
-- Update tasks.json 
+## What’s changed
+
+## 🐛 Bug fixes
+
+- Set exit code in finish script @mdegat01 (#112)
