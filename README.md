@@ -55,21 +55,6 @@ Sharry for Home Assistant
 
 [:books: Sharry add-on documentation][addon-doc-sharry]
 
-### &#10003; [Sharry][addon-sharryperso]
-
-![Latest Version][sharryperso-version-shield]
-![Supports armhf Architecture][sharryperso-armhf-shield]
-![Supports armv7 Architecture][sharryperso-armv7-shield]
-![Supports aarch64 Architecture][sharryperso-aarch64-shield]
-![Supports amd64 Architecture][sharryperso-amd64-shield]
-![Supports i386 Architecture][sharryperso-i386-shield]
-
-Sharry for Home Assistant
-
-[![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.][add-addon-shield]][add-addon-sharryperso]
-
-[:books: Sharry add-on documentation][addon-doc-sharryperso]
-
 ## Releases
 
 Add-on releases are **NOT** based on [Semantic Versioning][semver]. The latest
@@ -91,7 +76,6 @@ GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
 - [Open an issue for the add-on: Sharry][sharry-issue]
-- [Open an issue for the add-on: Sharry][sharryperso-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -119,26 +103,16 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-sharry]: https://github.com/erdnaxela02/addon-sharry/tree/ba9e404
-[addon-doc-sharry]: https://github.com/erdnaxela02/addon-sharry/blob/ba9e404/README.md
-[sharry-issue]: https://github.com/erdnaxela02/addon-sharry/issues
-[sharry-version-shield]: https://img.shields.io/badge/version-ba9e404-yellow.svg
+[addon-sharry]: https://github.com/erdnaxela02/sharry2/tree/v0.1.0
+[addon-doc-sharry]: https://github.com/erdnaxela02/sharry2/blob/v0.1.0/README.md
+[sharry-issue]: https://github.com/erdnaxela02/sharry2/issues
+[sharry-version-shield]: https://img.shields.io/badge/version-v0.1.0-yellow.svg
 [add-addon-sharry]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=7eb274d5_sharry
 [sharry-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [sharry-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [sharry-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [sharry-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [sharry-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-sharryperso]: https://github.com/erdnaxela02/sharry2/tree/c4d2cc0
-[addon-doc-sharryperso]: https://github.com/erdnaxela02/sharry2/blob/c4d2cc0/README.md
-[sharryperso-issue]: https://github.com/erdnaxela02/sharry2/issues
-[sharryperso-version-shield]: https://img.shields.io/badge/version-c4d2cc0-yellow.svg
-[add-addon-sharryperso]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=7eb274d5_sharryperso
-[sharryperso-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[sharryperso-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[sharryperso-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[sharryperso-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[sharryperso-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [add-addon-shield]: https://my.home-assistant.io/badges/supervisor_addon.svg
 [add-repo-shield]: https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg
 [add-repo]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A//github.com/erdnaxela02/hassio-addons-edge
