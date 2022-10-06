@@ -55,6 +55,21 @@ Sharry for Home Assistant
 
 [:books: Sharry add-on documentation][addon-doc-sharry]
 
+### &#10003; [Sharry-1][addon-sharry-1]
+
+![Latest Version][sharry-1-version-shield]
+![Supports armhf Architecture][sharry-1-armhf-shield]
+![Supports armv7 Architecture][sharry-1-armv7-shield]
+![Supports aarch64 Architecture][sharry-1-aarch64-shield]
+![Supports amd64 Architecture][sharry-1-amd64-shield]
+![Supports i386 Architecture][sharry-1-i386-shield]
+
+Sharry for Home Assistant
+
+[![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.][add-addon-shield]][add-addon-sharry-1]
+
+[:books: Sharry-1 add-on documentation][addon-doc-sharry-1]
+
 ## Releases
 
 Add-on releases are **NOT** based on [Semantic Versioning][semver]. The latest
@@ -76,6 +91,7 @@ GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
 - [Open an issue for the add-on: Sharry][sharry-issue]
+- [Open an issue for the add-on: Sharry-1][sharry-1-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -113,6 +129,16 @@ SOFTWARE.
 [sharry-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [sharry-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [sharry-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[addon-sharry-1]: https://github.com/erdnaxela02/addon-sharry-1/tree/v0.1.0
+[addon-doc-sharry-1]: https://github.com/erdnaxela02/addon-sharry-1/blob/v0.1.0/README.md
+[sharry-1-issue]: https://github.com/erdnaxela02/addon-sharry-1/issues
+[sharry-1-version-shield]: https://img.shields.io/badge/version-v0.1.0-yellow.svg
+[add-addon-sharry-1]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=7eb274d5_sharry-1
+[sharry-1-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[sharry-1-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[sharry-1-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[sharry-1-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[sharry-1-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [add-addon-shield]: https://my.home-assistant.io/badges/supervisor_addon.svg
 [add-repo-shield]: https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg
 [add-repo]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A//github.com/erdnaxela02/hassio-addons-edge
