@@ -55,7 +55,7 @@ Sharry for Home Assistant
 
 [:books: Sharry add-on documentation][addon-doc-sharry]
 
-### &#10003; [Sharryperso][addon-sharryperso]
+### &#10003; [Sharry][addon-sharryperso]
 
 ![Latest Version][sharryperso-version-shield]
 ![Supports armhf Architecture][sharryperso-armhf-shield]
@@ -68,7 +68,7 @@ Sharry for Home Assistant
 
 [![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.][add-addon-shield]][add-addon-sharryperso]
 
-[:books: Sharryperso add-on documentation][addon-doc-sharryperso]
+[:books: Sharry add-on documentation][addon-doc-sharryperso]
 
 ## Releases
 
@@ -91,7 +91,7 @@ GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
 - [Open an issue for the add-on: Sharry][sharry-issue]
-- [Open an issue for the add-on: Sharryperso][sharryperso-issue]
+- [Open an issue for the add-on: Sharry][sharryperso-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
