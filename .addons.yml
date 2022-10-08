@@ -9,7 +9,3 @@ addons:
     repository: erdnaxela02/addon-sharry-1
     target: sharry
     image: ghcr.io/erdnaxela02/sharry-1/{arch}
-  exemple:
-    repository: erdnaxela02/addons-example
-    target: example
-    image: ghcr.io/erdnaxela02/{arch}-addon-example
