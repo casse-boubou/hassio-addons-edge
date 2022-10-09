@@ -9,7 +9,7 @@ include <tunables/global>
 @{do_usr}=@{fs_root}/usr/
 @{do_var}=@{fs_root}/var/
 
-profile abc flags=(attach_disconnected,mediate_deleted) {
+profile sharry flags=(attach_disconnected,mediate_deleted) {
   include <abstractions/base>
   include <abstractions/bash>
 
@@ -73,7 +73,7 @@ profile abc flags=(attach_disconnected,mediate_deleted) {
     include <abstractions/base>
 
     # Receive signals from s6
-    signal (receive) peer=*_abc,
+    signal (receive) peer=*_sharry,
 
     # Network access
     network tcp,
