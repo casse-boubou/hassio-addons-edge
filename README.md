@@ -119,10 +119,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-sharry]: https://github.com/erdnaxela02/addon-sharry/tree/a71e378
-[addon-doc-sharry]: https://github.com/erdnaxela02/addon-sharry/blob/a71e378/README.md
+[addon-sharry]: https://github.com/erdnaxela02/addon-sharry/tree/b67433f
+[addon-doc-sharry]: https://github.com/erdnaxela02/addon-sharry/blob/b67433f/README.md
 [sharry-issue]: https://github.com/erdnaxela02/addon-sharry/issues
-[sharry-version-shield]: https://img.shields.io/badge/version-a71e378-yellow.svg
+[sharry-version-shield]: https://img.shields.io/badge/version-b67433f-yellow.svg
 [add-addon-sharry]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=7eb274d5_sharry
 [sharry-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [sharry-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
