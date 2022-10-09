@@ -5,10 +5,9 @@ name: Repository Updater
 on:
   repository_dispatch:
     types: ["update"]
-  workflow_dispatch:
 
 jobs:
   workflows:
-    uses: mdegat01/addon-workflows/.github/workflows/repository-updater.yaml@main
+    uses: erdnaxela02/ha-addon-workflows/.github/workflows/repository-updater.yaml@main
     secrets:
       UPDATER_TOKEN: ${{ secrets.UPDATER_TOKEN }}

@@ -1,0 +1,21 @@
+# Changelog since v1.0.1
+- Update config.yaml 
+- test 
+- Update deploy.yaml 
+- Update deploy.yaml 
+- Update config.yaml 
+- init 
+- test 
+- Update config.yaml 
+- test 
+- Update README.md 
+- sharry avec dependance test 
+- Update Dockerfile 
+- Update Dockerfile 
+- Update Dockerfile 
+- Merge branch 'main' of https://github.com/erdnaxela02/addon-sharry-dependency-less 
+- Update config.yaml 
+- Prettified Code! 
+- 30-config.sh bug fix 
+- Update 30-config.sh 
+- Update 30-config.sh 
