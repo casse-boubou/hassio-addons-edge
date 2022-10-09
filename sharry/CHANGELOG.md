@@ -1,4 +1,5 @@
 # Changelog since v0.1.0
+- Update apparmor.txt 
 - ecd 
 - Update Dockerfile 
 - Update Dockerfile 
