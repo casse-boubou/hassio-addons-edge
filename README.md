@@ -2,8 +2,7 @@
 
 [![License][license-shield]](LICENSE)
 
-Une collection d'add-on pour HomeAssistant faite par Frosch et développer pour
-Raspberry Pi 4.
+Une collection d'add-on pour HomeAssistant faite par Frosch et développer pour Raspberry Pi 4.
 
 ## WARNING! C'est un repository d'add-ons en DEVELOPPEMENT **!**
 
@@ -63,7 +62,7 @@ Sharry pour Home Assistant
 ![Supports amd64 Architecture][sharry-dependency-less-amd64-shield]
 ![Supports i386 Architecture][sharry-dependency-less-i386-shield]
 
-Sharry for Home Assistant
+Sharry pour Home Assistant sans dependances a Mariadb
 
 [![Open your Home Assistant instance and show the dashboard of a Supervisor add-on.][add-addon-shield]][add-addon-sharry-dependency-less]
 
@@ -102,22 +101,22 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-sharry]: https://github.com/erdnaxela02/addon-sharry/tree/v1.0.0
-[addon-doc-sharry]: https://github.com/erdnaxela02/addon-sharry/blob/v1.0.0/README.md
-[sharry-version-shield]: https://img.shields.io/badge/version-v1.0.0-yellow.svg
+[addon-sharry]: https://github.com/erdnaxela02/addon-sharry/tree/v0.1.0
+[addon-doc-sharry]: https://github.com/erdnaxela02/addon-sharry/blob/v0.1.0/README.md
+[sharry-version-shield]: https://img.shields.io/badge/version-v0.1.0-yellow.svg
 [add-addon-sharry]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=178dacac_sharry
 [sharry-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[sharry-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[sharry-amd64-shield]: https://img.shields.io/badge/amd64-no-red.svg
 [sharry-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [sharry-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [sharry-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 
-[addon-sharry-dependency-less]: https://github.com/erdnaxela02/addon-sharry-dependency-less/tree/396c6e6
-[addon-doc-sharry-dependency-less]: https://github.com/erdnaxela02/addon-sharry-dependency-less/blob/396c6e6/README.md
-[sharry-dependency-less-version-shield]: https://img.shields.io/badge/version-396c6e6-yellow.svg
+[addon-sharry-dependency-less]: https://github.com/erdnaxela02/addon-sharry-dependency-less/tree/v0.1.0
+[addon-doc-sharry-dependency-less]: https://github.com/erdnaxela02/addon-sharry-dependency-less/blob/v0.1.0/README.md
+[sharry-dependency-less-version-shield]: https://img.shields.io/badge/version-v0.1.0-yellow.svg
 [add-addon-sharry-dependency-less]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=178dacac_sharry-dependency-less
 [sharry-dependency-less-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[sharry-dependency-less-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[sharry-dependency-less-amd64-shield]: https://img.shields.io/badge/amd64-no-red.svg
 [sharry-dependency-less-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [sharry-dependency-less-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [sharry-dependency-less-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
