@@ -54,6 +54,6 @@ services:
 - mysql:want
 slug: sharry
 url: https://github.com/erdnaxela02/addon-sharry
-version: cbac0a9
+version: 2efaa9e
 watchdog: http://[HOST]:9090/api/v2/open/info/version
 webui: http://[HOST]:[PORT:9090]
