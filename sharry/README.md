@@ -4,20 +4,20 @@
 [![License][license-shield]][license]
 
 [Sharry][sharry] permet de partager des fichiers avec d'autres de manière simple.
-C'est une application web auto-hébergé. Le concept de base est le suivant :
-téléchargez des fichiers et récupérez une URL qui peut ensuite être partagé.
+C'est une application web auto-hébergé. Le concept de base est le suivant : téléchargez
+des fichiers et récupérez une URL qui peut ensuite être partagé.
 
 ## About
 
 Cet add-on permet un partage de fichiers rapidement et facilement.
-Vous glisser et déposez des fichiers et obtenez un lien que vous pouvez
-partager avec n'importe qui.
-Vous pouvez également créer et partager des liens avec d'autres personnes
-qu'elles utiliseront pour partager des fichiers avec vous.
-Toute personne disposant d'un lien de partage peut y accéder, mais seulement
-les utilisateurs authentifiée peuvent créer de nouveaux liens de partage.
-Les URL sont difficiles à deviner afin que les utilisateurs puissent
-en contrôler qui y a accès.
+Vous glisser et déposez des fichiers et obtenez un lien que vous
+pouvez partager avec n'importe qui.
+Vous pouvez également créer et partager des liens avec d'autres personnes qu'elles
+utiliseront pour partager des fichiers avec vous.
+Toute personne disposant d'un lien de partage peut y accéder, mais seulement les
+utilisateurs authentifiée peuvent créer de nouveaux liens de partage.
+Les URL sont difficiles à deviner afin que les utilisateurs
+puissent en contrôler qui y a accès.
 Il a également quelques fonctionnalités intéressantes comme les téléchargements
 de fichiers avec reprise et l'affichage de la galerie pour les photos et les vidéos.
 
