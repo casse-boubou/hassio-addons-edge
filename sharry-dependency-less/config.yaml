@@ -4,8 +4,8 @@ auth_api: true
 backup_post: s6-svc -wd -d /run/s6/legacy-services/mariadb-lock/
 backup_pre: s6-svc -wU -u /run/s6/legacy-services/mariadb-lock/
 codenotary: erdnaxela02@hotmail.fr
-description: "Sharry pour Home Assistant sans d\xE9pendances \xE0 Mariadb"
-image: ghcr.io/erdnaxela02/sharry2/{arch}
+description: Sharry pour Home Assistant sans dependances a Mariadb
+image: ghcr.io/erdnaxela02/sharry-dependency-less/{arch}
 init: false
 map:
 - share:rw
