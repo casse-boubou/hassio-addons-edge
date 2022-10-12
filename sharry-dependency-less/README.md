@@ -5,9 +5,11 @@
 
 [Sharry][sharry] permet de partager des fichiers avec d'autres de manière simple.
 
-Il s'agit ici d'une version modifier [de cet add-on][addon-sharry] dans laquelle l'add-on Maria db est integrer.
-
 ## About
+
+Ce projet est un fork du projet original de [Mike Degatano][mike-sharry] auquel j'ai rajouter la possibilitée de stocker les fichier directement dans un dossier local ainsi que de copier la base de donnée de Mariadb à un stockage local ou inversement.
+
+Il s'agit ici d'une version modifier [de cet add-on][addon-sharry] dans laquelle l'add-on Maria db est integrer.
 
 Cet add-on permet un partage de fichiers rapidement et facilement.
 Vous glisser et déposez des fichiers et obtenez un lien que vous pouvez partager avec n'importe qui.
@@ -57,6 +59,7 @@ SOFTWARE.
 
 [mike-degatano]: https://github.com/mdegat01
 [contributors]: https://github.com/mdegat01/addon-sharry/graphs/contributors
+[mike-sharry]: https://github.com/mdegat01/addon-sharry
 
 [sharry]: https://eikek.github.io/sharry/
 [discord-ha]: https://discord.gg/c5DvZ4e
@@ -68,4 +71,4 @@ SOFTWARE.
 
 [releases]: https://github.com/erdnaxela02/addon-sharry-dependency-less/releases
 [releases-shield]: https://img.shields.io/github/v/release/erdnaxela02/addon-sharry-dependency-less
-[addon-sharry]:https://github.com/erdnaxela02/addon-sharry-dependency-less
+[addon-sharry]:https://github.com/erdnaxela02/addon-sharry
