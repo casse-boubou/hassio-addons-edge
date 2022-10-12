@@ -101,9 +101,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-sharry]: https://github.com/erdnaxela02/addon-sharry/tree/4987889
-[addon-doc-sharry]: https://github.com/erdnaxela02/addon-sharry/blob/4987889/README.md
-[sharry-version-shield]: https://img.shields.io/badge/version-4987889-yellow.svg
+[addon-sharry]: https://github.com/erdnaxela02/addon-sharry/tree/7bf8325
+[addon-doc-sharry]: https://github.com/erdnaxela02/addon-sharry/blob/7bf8325/README.md
+[sharry-version-shield]: https://img.shields.io/badge/version-7bf8325-yellow.svg
 [add-addon-sharry]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=178dacac_sharry
 [sharry-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [sharry-amd64-shield]: https://img.shields.io/badge/amd64-no-red.svg
