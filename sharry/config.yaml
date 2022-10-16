@@ -1,55 +1,55 @@
-name: Sharry
-url: https://github.com/erdnaxela02/addon-sharry
-version: 93d13f0
-slug: sharry
 arch:
 - aarch64
-description: Sharry pour Home Assistant
+auth_api: true
 codenotary: erdnaxela02@hotmail.fr
+description: Sharry pour Home Assistant
 image: ghcr.io/erdnaxela02/sharry/{arch}
 init: false
 map:
 - share:rw
-services:
-- mysql:want
-auth_api: true
-webui: http://[HOST]:[PORT:9090]
-watchdog: http://[HOST]:9090/api/v2/open/info/version
+name: Sharry
+options:
+  conf_overrides: []
+  default_language: us
+  domain: homeassistant.local
+  log_level: info
+  server_secret: null
+  share_max_size_gb: 1.5
+  share_max_valid_days: 365
+  theme: light
+  use_ssl: false
 ports:
   9090/tcp: 9090
 ports_description:
   9090/tcp: HTTP listen port
-options:
-  conf_overrides: []
-  domain: homeassistant.local
-  use_ssl: false
-  default_language: us
-  share_max_size_gb: 1.5
-  share_max_valid_days: 365
-  server_secret: null
-  theme: light
-  log_level: info
 schema:
-  conf_overrides:
-    - property: match(^sharry[.]restserver[.][-.a-z0-9]+)
-      value: str
   DefaultStore: list(database|filesystem)
-  local_db: str?
-  remote_db_type: list(mariadb|postgres)?
-  remote_db_host: str?
-  remote_db_port: port?
-  remote_db_username: str?
-  remote_db_password: password?
-  remote_db_database: str?
+  conf_overrides:
+  - property: match(^sharry[.]restserver[.][-.a-z0-9]+)
+    value: str
   copy_db: bool?
   copy_db_source: list(database|filesystem)?
   copy_db_target: list(database|filesystem)?
-  domain: match([^\/:]+)
-  use_ssl: bool?
   default_language: match([A-Za-z]{2})?
+  domain: match([^\/:]+)
+  local_db: str?
+  log_level: list(trace|debug|info|notice|warning|error|fatal)?
+  remote_db_database: str?
+  remote_db_host: str?
+  remote_db_password: password?
+  remote_db_port: port?
+  remote_db_type: list(mariadb|postgres)?
+  remote_db_username: str?
+  reset_database: bool?
+  server_secret: password
   share_max_size_gb: float(0.01,)?
   share_max_valid_days: int(1,)?
-  server_secret: password
-  log_level: list(trace|debug|info|notice|warning|error|fatal)?
   theme: list(light|dark)?
-  reset_database: bool?
+  use_ssl: bool?
+services:
+- mysql:want
+slug: sharry
+url: https://github.com/erdnaxela02/addon-sharry
+version: df1a329
+watchdog: http://[HOST]:9090/api/v2/open/info/version
+webui: http://[HOST]:[PORT:9090]

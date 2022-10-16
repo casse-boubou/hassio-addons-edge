@@ -1,4 +1,5 @@
 # Changelog since v1.1.0
+- Update config.yaml 
 - Ajout de descriptions de la config de l'addon 
 - Prettified Code! 
 - Ajout de descriptions de la config de l'addon 
