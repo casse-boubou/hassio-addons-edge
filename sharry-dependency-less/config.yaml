@@ -72,6 +72,6 @@ services:
 - mysql:provide
 slug: sharry-dependency-less
 url: https://github.com/erdnaxela02/addon-sharry-dependency-less
-version: 95b5240
+version: e65a50c
 watchdog: http://[HOST]:9090/api/v2/open/info/version
 webui: http://[HOST]:[PORT:9090]
