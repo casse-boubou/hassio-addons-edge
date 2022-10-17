@@ -1,6 +1,8 @@
 # Changelog since v1.1.0
 - Update config.yaml 
 - Update config.yaml 
+- Update config.yaml 
+- Update config.yaml 
 - Prettified Code! 
 - Merge branch 'main' of https://github.com/erdnaxela02/addon-sharry-dependency-less 
 - Update config.yaml 
