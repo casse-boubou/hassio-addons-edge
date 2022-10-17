@@ -11,23 +11,23 @@ map:
 - share:rw
 name: Sharry-dependency-less
 options:
-  conf_overrides: []
+  13_domain: homeassistant.local
+  14_use_ssl: false
+  15_default_language: us
+  16_share_max_size_gb: 1.5
+  17_share_max_valid_days: 365
+  18_server_secret: null
+  19_log_level: info
+  1_conf_overrides: []
+  20_theme: light
   databases:
   - sharry
-  default_language: us
-  domain: homeassistant.local
-  log_level: info
   logins:
   - password: null
     username: homeassistant
   rights:
   - database: sharry
     username: homeassistant
-  server_secret: null
-  share_max_size_gb: 1.5
-  share_max_valid_days: 365
-  theme: light
-  use_ssl: false
 ports:
   3306/tcp: null
   9090/tcp: 9090
@@ -35,44 +35,44 @@ ports_description:
   3306/tcp: Mariadb port
   9090/tcp: HTTP listen port
 schema:
-  DefaultStore: list(database|filesystem)
-  conf_overrides:
+  10_copy_db: bool?
+  11_copy_db_source: list(database|filesystem)?
+  12_copy_db_target: list(database|filesystem)?
+  13_domain: match([^\/:]+)
+  14_use_ssl: bool?
+  15_default_language: match([A-Za-z]{2})?
+  16_share_max_size_gb: float(0.01,)?
+  17_share_max_valid_days: int(1,)?
+  18_server_secret: password
+  19_log_level: list(trace|debug|info|notice|warning|error|fatal)?
+  1_conf_overrides:
   - property: match(^sharry[.]restserver[.][-.a-z0-9]+)
     value: str
-  copy_db: bool?
-  copy_db_source: list(database|filesystem)?
-  copy_db_target: list(database|filesystem)?
+  20_theme: list(light|dark)?
+  21_reset_database: bool?
+  2_defaultStore: list(database|filesystem)
+  3_local_db: str?
+  4_remote_db_type: list(mariadb|postgres)?
+  5_remote_db_host: str?
+  6_remote_db_port: port?
+  7_remote_db_username: str?
+  8_remote_db_password: password?
+  9_remote_db_database: str?
   databases:
   - str
-  default_language: match([A-Za-z]{2})?
-  domain: match([^\/:]+)
-  local_db: str?
-  log_level: list(trace|debug|info|notice|warning|error|fatal)?
   logins:
   - password: password
     username: str
-  remote_db_database: str?
-  remote_db_host: str?
-  remote_db_password: password?
-  remote_db_port: port?
-  remote_db_type: list(mariadb|postgres)?
-  remote_db_username: str?
-  reset_database: bool?
   rights:
   - database: str
     privileges:
     - list(ALTER|CREATE|CREATE ROUTINE|CREATE TEMPORARY TABLES|CREATE VIEW|DELETE|DELETE
       HISTORY|DROP|EVENT|GRANT OPTION|INDEX|INSERT|LOCK TABLES|SELECT|SHOW VIEW|TRIGGER|UPDATE)?
     username: str
-  server_secret: password
-  share_max_size_gb: float(0.01,)?
-  share_max_valid_days: int(1,)?
-  theme: list(light|dark)?
-  use_ssl: bool?
 services:
 - mysql:provide
 slug: sharry-dependency-less
 url: https://github.com/erdnaxela02/addon-sharry-dependency-less
-version: 5bc1d60
+version: c6e354c
 watchdog: http://[HOST]:9090/api/v2/open/info/version
 webui: http://[HOST]:[PORT:9090]
