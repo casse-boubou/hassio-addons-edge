@@ -1,4 +1,15 @@
 # Changelog since v1.1.0
+- Update config.yaml 
+- Update config.yaml 
+- Fix ordre de la liste des options de l'addon 
+- Fix ordre de la liste des options de l'addon 
+- Prettified Code! 
+- Fix ordre de la liste des options de l'addon 
+- Fix ordre de la liste des options de l'addon 
+- Fix ordre de la liste des options de l'addon 
+- Fix ordre de la liste des options de l'addon 
+- Fix ordre de la liste des options de l'addon 
+- Fix ordre de la liste des options de l'addon 
 - Fix ordre de la liste des options de l'addon 
 - Update config.yaml 
 - Ajout de descriptions de la config de l'addon 
