@@ -1,4 +1,5 @@
 # Changelog since v1.1.0
+- Update .yamllint 
 - Update config.yaml 
 - Update config.yaml 
 - Update config.yaml 
