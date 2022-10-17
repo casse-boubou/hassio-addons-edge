@@ -70,7 +70,6 @@ schema:
           INSERT|LOCK TABLES|SELECT|SHOW VIEW|TRIGGER|UPDATE)?"
       username: str
   reset_database: bool?
-
 services:
 - mysql:provide
 slug: sharry-dependency-less
