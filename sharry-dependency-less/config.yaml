@@ -1,8 +1,8 @@
 arch:
 - aarch64
 auth_api: true
-backup_post: s6-svc -wd -d /run/s6/legacy-services/mariadb-lock/,
-backup_pre: s6-svc -wU -u /run/s6/legacy-services/mariadb-lock/,
+backup_post: s6-svc -wd -d /run/s6/legacy-services/mariadb-lock/
+backup_pre: s6-svc -wU -u /run/s6/legacy-services/mariadb-lock/
 codenotary: erdnaxela02@hotmail.fr
 description: Sharry pour Home Assistant sans dependances a Mariadb
 image: ghcr.io/erdnaxela02/sharry-dependency-less/{arch}
@@ -11,20 +11,21 @@ map:
 - share:rw
 name: Sharry-dependency-less
 options:
-  conf_overrides: '[]'
-  databases: sharry
+  conf_overrides: []
+  databases:
+  - sharry
   default_language: us
   domain: homeassistant.local
   log_level: info
   logins:
-    password: null
+  - password: null
     username: homeassistant
   rights:
-    database: sharry
+  - database: sharry
     username: homeassistant
   server_secret: null
-  share_max_size_gb: '1.5'
-  share_max_valid_days: '365'
+  share_max_size_gb: 1.5
+  share_max_valid_days: 365
   theme: light
   use_ssl: false
 ports:
@@ -34,20 +35,21 @@ ports_description:
   3306/tcp: Mariadb port
   9090/tcp: HTTP listen port
 schema:
+  DefaultStore: list(database|filesystem)
   conf_overrides:
-    property: match(^sharry[.]restserver[.][-.a-z0-9]+)
+  - property: match(^sharry[.]restserver[.][-.a-z0-9]+)
     value: str
   copy_db: bool?
   copy_db_source: list(database|filesystem)?
   copy_db_target: list(database|filesystem)?
-  databases: str
-  defaultStore: list(database|filesystem)
+  databases:
+  - str
   default_language: match([A-Za-z]{2})?
   domain: match([^\/:]+)
   local_db: str?
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
   logins:
-    password: password
+  - password: password
     username: str
   remote_db_database: str?
   remote_db_host: str?
@@ -57,8 +59,9 @@ schema:
   remote_db_username: str?
   reset_database: bool?
   rights:
-    database: str
-    privileges: list(ALTER|CREATE|CREATE ROUTINE|CREATE TEMPORARY TABLES|CREATE VIEW|DELETE|DELETE
+  - database: str
+    privileges:
+    - list(ALTER|CREATE|CREATE ROUTINE|CREATE TEMPORARY TABLES|CREATE VIEW|DELETE|DELETE
       HISTORY|DROP|EVENT|GRANT OPTION|INDEX|INSERT|LOCK TABLES|SELECT|SHOW VIEW|TRIGGER|UPDATE)?
     username: str
   server_secret: password
@@ -70,6 +73,6 @@ services:
 - mysql:provide
 slug: sharry-dependency-less
 url: https://github.com/erdnaxela02/addon-sharry-dependency-less
-version: 29ec830
+version: 97d0f2e
 watchdog: http://[HOST]:9090/api/v2/open/info/version
 webui: http://[HOST]:[PORT:9090]
