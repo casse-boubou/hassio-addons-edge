@@ -1,5 +1,8 @@
 # Changelog since v1.1.0
 - Update .yamllint 
+- Prettified Code! 
+- Update config.yaml 
+- Update .yamllint 
 - Update config.yaml 
 - Update config.yaml 
 - Update config.yaml 
