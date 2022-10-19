@@ -1,4 +1,6 @@
 # Changelog since v1.1.0
+- Prettified Code! 
+- Update tasks.json 
 - Update .yamllint 
 - Prettified Code! 
 - Update config.yaml 
