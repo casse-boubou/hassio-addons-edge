@@ -1,4 +1,5 @@
 # Changelog since v1.1.0
+- det translations 
 - Prettified Code! 
 - Update tasks.json 
 - Update .yamllint 
