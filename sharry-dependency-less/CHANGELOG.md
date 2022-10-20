@@ -1,4 +1,5 @@
 # Changelog since v1.1.0
+- Bump Mariadb from 10.6.9 to 10.6.10 
 - det translations 
 - Prettified Code! 
 - Update tasks.json 
