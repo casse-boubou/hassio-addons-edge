@@ -1,38 +1,4 @@
-# Changelog since v1.1.0
-- Bump Mariadb from 10.6.9 to 10.6.10 
-- det translations 
-- Prettified Code! 
-- Update tasks.json 
-- Update .yamllint 
-- Prettified Code! 
-- Update config.yaml 
-- Update .yamllint 
-- Update config.yaml 
-- Update config.yaml 
-- Update config.yaml 
-- Update config.yaml 
-- Prettified Code! 
-- Merge branch 'main' of https://github.com/erdnaxela02/addon-sharry-dependency-less 
-- Update config.yaml 
-- Prettified Code! 
-- Update config.yaml 
-- Prettified Code! 
-- Update config.yaml 
-- Update config.yaml 
-- Update config.yaml 
-- Update config.yaml 
-- Update config.yaml 
-- Update config.yaml 
-- Update config.yaml 
-- Fix ordre de la liste des options de l'addon 
-- Fix ordre de la liste des options de l'addon 
-- Prettified Code! 
-- Fix ordre de la liste des options de l'addon 
-- Fix ordre de la liste des options de l'addon 
-- Fix ordre de la liste des options de l'addon 
-- Fix ordre de la liste des options de l'addon 
-- Fix ordre de la liste des options de l'addon 
-- Fix ordre de la liste des options de l'addon 
-- Fix ordre de la liste des options de l'addon 
-- Update config.yaml 
-- Ajout de descriptions de la config de l'addon 
+# What’s changed
+[Bump Mariadb from 10.6.9 to 10.6.10](https://github.com/erdnaxela02/addon-sharry-dependency-less/commit/64cde47b1fe26ae842ba8f9ec60b4e8bdbc211bf)
+## Ajout
+- Ajout de descriptions des items dans la config de l'addon
