@@ -1,2 +1,6 @@
 # Changelog since v0.1.1
+- Prettified Code! 
+- update license 
+- Prettified Code! 
+- update license 
 - Update LICENSE 
