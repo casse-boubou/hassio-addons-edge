@@ -1,4 +1,4 @@
-# Home Assistant Add-on: MoneroDxP2Pool
+# Home Assistant Add-on: P2pool
 
 ## About
 
@@ -6,7 +6,7 @@ Cet Addon vous permettra l'execution d'un pool décentralisé [p2pool][p2pool] s
 votre HomeAssistant sur RaspBerry Pi 4.
 
 Pour toutes options de configuration et possibilitées d'applications, merci de vous
-renseigner sur la page du [projet][p2pool].
+renseigner sur la page du projet [p2pool][p2pool].
 
 ## Installation
 
