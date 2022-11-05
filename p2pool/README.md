@@ -53,7 +53,7 @@ distributed under [GNU General Public License v3.0][p2poollicense]:
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with this program.  If not, see <https://www.gnu.org/licenses/>.
+  along with this program.  If not, see <https://www.gnu.org/licenses>.
 
 [p2pool]: https://github.com/SChernykh/p2pool
 
