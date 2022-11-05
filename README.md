@@ -116,9 +116,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-p2pool]: https://github.com/erdnaxela02/addon-p2pool/tree/a311c24
-[addon-doc-p2pool]: https://github.com/erdnaxela02/addon-p2pool/blob/a311c24/README.md
-[p2pool-version-shield]: https://img.shields.io/badge/version-a311c24-yellow.svg
+[addon-p2pool]: https://github.com/erdnaxela02/addon-p2pool/tree/2575cea
+[addon-doc-p2pool]: https://github.com/erdnaxela02/addon-p2pool/blob/2575cea/README.md
+[p2pool-version-shield]: https://img.shields.io/badge/version-2575cea-yellow.svg
 [add-addon-p2pool]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=178dacac_p2pool
 [p2pool-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [p2pool-amd64-shield]: https://img.shields.io/badge/amd64-no-red.svg
