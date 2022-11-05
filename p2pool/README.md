@@ -1,4 +1,4 @@
-# Home Assistant Add-on: MoneroDxP2Pool
+# Home Assistant Add-on: P2pool
 
 [![GitHub Release][releases-shield]][releases]
 [![License][license-shield]][license]
@@ -63,7 +63,7 @@ distributed under [GNU General Public License v3.0][p2poollicense]:
 
 [Frosch]: https://github.com/erdnaxela02
 [license]: https://github.com/erdnaxela02/addon-p2pool/blob/main/LICENSE
-[license-shield]: https://img.shields.io/github/license/erdnaxela02/addon-p2pool.svg
+[license-shield]: https://img.shields.io/github/license/erdnaxela02/addon-p2pool
 
 [releases]: https://github.com/erdnaxela02/addon-p2pool/releases
 [releases-shield]: https://img.shields.io/github/v/release/erdnaxela02/addon-p2pool
