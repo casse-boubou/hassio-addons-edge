@@ -20,7 +20,7 @@ Ce répertoire est creer pour:
 
 Si vous cherchez plutot une version stable:
 
-<https://github.com/merdnaxela02/hassio-addons>
+<https://github.com/erdnaxela02/hassio-addons>
 
 ## Installation
 
