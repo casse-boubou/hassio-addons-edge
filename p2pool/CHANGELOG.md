@@ -1,4 +1,5 @@
 # Changelog since v0.1.0
+- Ajuste docs 
 - Prettified Code! 
 - Update License dependence 
 - Update Dockerfile 
