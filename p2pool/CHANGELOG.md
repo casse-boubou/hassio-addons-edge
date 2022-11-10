@@ -1,4 +1,5 @@
 # Changelog since v0.1.0
+- Add display p2pool status 
 - Update translations 
 - Update translations 
 - ⬆️  Bump addon base to 6.1.3 
