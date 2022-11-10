@@ -1,4 +1,6 @@
 # Changelog since v0.1.0
+- Update translations 
+- Update translations 
 - ⬆️  Bump addon base to 6.1.3 
 - Ajuste docs 
 - Prettified Code! 
