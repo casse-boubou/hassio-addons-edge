@@ -1,4 +1,7 @@
 # Changelog since v0.2.0
+- Add calcul uncles in StratumServer shares found
+
+Add function for calcul uncles in StratumServer shares found 
 - Improved json reading 
 - Change log mode for delete status time display 
 - Add StratumServer info even if no miner is active 
