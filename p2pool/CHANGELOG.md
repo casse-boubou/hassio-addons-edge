@@ -1,4 +1,5 @@
 # Changelog since v0.2.0
+- Change some log's color info 
 - Cleanup code 
 - Add uptime log info
 
