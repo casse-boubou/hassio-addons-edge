@@ -1,4 +1,8 @@
 # Changelog since v0.2.0
+- Cleanup code 
+- Add uptime log info
+
+Print a log line with uptime 
 - Add "Share found" log info
 
 Print a log line when share was found 
