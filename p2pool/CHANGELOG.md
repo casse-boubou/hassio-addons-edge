@@ -1,4 +1,7 @@
 # Changelog since v0.2.0
+- Add "Share found" log info
+
+Print a log line when share was found 
 - Add calcul uncles in StratumServer shares found
 
 Add function for calcul uncles in StratumServer shares found 
