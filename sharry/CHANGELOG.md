@@ -1,3 +1,2 @@
-# What’s changed
-## Ajout
-- Ajout de descriptions des items dans la config de l'addon
+# Changelog since v1.1.1
+- Bump openjdk11-jre from 11.0.16 to 11.0.17 
