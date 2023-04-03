@@ -1,4 +1,7 @@
 # Changelog since v1.2.0
+- Update renovate.json 
+- Update renovate.json 
+- Change Workflows for copy from hassio-addons 
 - Prettified Code! 
 - Add Renovate for dependency management 
 - Prettified Code! 
