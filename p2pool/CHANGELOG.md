@@ -1,4 +1,8 @@
 # Changelog since v1.0.0
+- Merge pull request #3 from erdnaxela02/renovate/schernykh-p2pool-3.x
+
+✨ Update P2Pool to v3.2 
+- ✨ Update P2Pool to v3.2 
 - Change Workflows for copy from hassio-addons 
 - Merge pull request #1 from erdnaxela02/renovate/ghcr.io-hassio-addons-debian-base-6.x
 
