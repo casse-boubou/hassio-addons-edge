@@ -1,4 +1,5 @@
 # Changelog since v1.0.0
+- Change Workflows for copy from hassio-addons 
 - Merge pull request #1 from erdnaxela02/renovate/ghcr.io-hassio-addons-debian-base-6.x
 
 ⬆️ Update Addon Base Image to v6.2.5 
