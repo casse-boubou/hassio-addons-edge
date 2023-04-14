@@ -1,4 +1,8 @@
 # Changelog since v0.1.1
+- Merge pull request #3 from erdnaxela02/renovate/monero-project-monero-0.x
+
+✨ Update MoneroD to v0.18.2.2 
+- ✨ Update MoneroD to v0.18.2.2 
 - Merge pull request #1 from erdnaxela02/renovate/ghcr.io-hassio-addons-debian-base-6.x
 
 ⬆️ Update Addon Base Image to v6.2.5 
