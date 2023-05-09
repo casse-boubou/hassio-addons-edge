@@ -1,14 +1,2 @@
-# Changelog since v1.0.0
-- Merge pull request #3 from erdnaxela02/renovate/schernykh-p2pool-3.x
-
-✨ Update P2Pool to v3.2 
-- ✨ Update P2Pool to v3.2 
-- Change Workflows for copy from hassio-addons 
-- Merge pull request #1 from erdnaxela02/renovate/ghcr.io-hassio-addons-debian-base-6.x
-
-⬆️ Update Addon Base Image to v6.2.5 
-- ⬆️ Update Addon Base Image to v6.2.5 
-- Added UPnP port forwarding support comes with v3.2 
-- Preparation for P2Pool v3.2 changes 
-- Add Renovate for dependency management 
-- ⬆️ Update P2pool from 3.0 to 3.1 
+# Changelog since v2.0.0
+- Adapt to new p2pool.observer API 
