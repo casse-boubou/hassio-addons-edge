@@ -1,2 +1,10 @@
 # Changelog since v2.0.0
+- Merge pull request #4 from erdnaxela02/renovate/schernykh-p2pool-3.x
+
+✨ Update P2Pool to v3.3 
+- ✨ Update P2Pool to v3.3 
+- Merge pull request #5 from erdnaxela02/renovate/ghcr.io-hassio-addons-debian-base-6.x
+
+⬆️ Update Addon Base Image to v6.2.6 
+- ⬆️ Update Addon Base Image to v6.2.6 
 - Adapt to new p2pool.observer API 
