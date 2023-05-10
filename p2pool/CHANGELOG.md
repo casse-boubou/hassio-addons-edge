@@ -1,4 +1,5 @@
 # Changelog since v2.0.0
+- Added block reward share percent in SideChain status log 
 - Merge pull request #4 from erdnaxela02/renovate/schernykh-p2pool-3.x
 
 ✨ Update P2Pool to v3.3 
