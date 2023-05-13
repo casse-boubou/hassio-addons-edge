@@ -1,4 +1,5 @@
 # Changelog since v2.0.0
+- Fix calcul uncles stratum bug 
 - Added block reward share percent in SideChain status log 
 - Merge pull request #4 from erdnaxela02/renovate/schernykh-p2pool-3.x
 
