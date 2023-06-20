@@ -1,4 +1,5 @@
 # Changelog since v1.3.0
+- Update sharry.conf for 1.12.1 
 - Merge pull request #7 from erdnaxela02/renovate/internal-packages
 
 ⬆️ Update internal packages 
