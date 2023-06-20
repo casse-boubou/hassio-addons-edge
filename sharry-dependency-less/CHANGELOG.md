@@ -1,19 +1,14 @@
-# Changelog since v1.2.0
-- Merge pull request #1 from erdnaxela02/renovate/ghcr.io-hassio-addons-base-13.x
+# Changelog since v1.3.0
+- Merge pull request #6 from erdnaxela02/renovate/ghcr.io-hassio-addons-base-14.x
 
-⬆️ Update Addon Base Image to v13.2.2 
-- ⬆️ Update Addon Base Image to v13.2.2 
-- Merge pull request #3 from erdnaxela02/renovate/internal-packages
+⬆️ Update Addon Base Image to v14 
+- ⬆️ Update Addon Base Image to v14 
+- Merge pull request #5 from erdnaxela02/renovate/internal-packages
 
-⬆️ Update alpine_3_17/openjdk11-jre to v11.0.19_p7-r0 
-- ⬆️ Update alpine_3_17/openjdk11-jre to v11.0.19_p7-r0 
-- Update renovate.json 
-- Update renovate.json 
-- Change Workflows for copy from hassio-addons 
-- Prettified Code! 
-- Add Renovate for dependency management 
-- Prettified Code! 
-- Add Renovate for dependency management 
-- Prettified Code! 
-- fix previous commit 
-- up1 
+⬆️ Update internal packages to v10.6.14-r0 
+- Delete Watchdog from config file 
+- ⬆️ Update internal packages to v10.6.14-r0 
+- Merge pull request #4 from erdnaxela02/renovate/eikek-sharry-1.x
+
+✨ Update Sharry to v1.12.1 
+- ✨ Update Sharry to v1.12.1 
