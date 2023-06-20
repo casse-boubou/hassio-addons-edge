@@ -1,7 +1,12 @@
 # Changelog since v0.1.1
+- Update bzip2 
+- Merge pull request #5 from erdnaxela02/renovate/ghcr.io-hassio-addons-debian-base-7.x
+
+⬆️ Update Addon Base Image to v7 
 - Merge pull request #6 from erdnaxela02/renovate/internal-packages
 
 ⬆️ Update debian_12/bzip2 to v1.0.8-5 
+- ⬆️ Update Addon Base Image to v7 
 - ⬆️ Update debian_12/bzip2 to v1.0.8-5 
 - Update renovate for Debian 12 dependency 
 - Merge pull request #3 from erdnaxela02/renovate/monero-project-monero-0.x
