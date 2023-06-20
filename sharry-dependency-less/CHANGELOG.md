@@ -1,4 +1,9 @@
 # Changelog since v1.3.0
+- Merge pull request #7 from erdnaxela02/renovate/internal-packages
+
+⬆️ Update internal packages 
+- ⬆️ Update internal packages 
+- Update renovate for Alpine 3.18 dependency 
 - Merge pull request #6 from erdnaxela02/renovate/ghcr.io-hassio-addons-base-14.x
 
 ⬆️ Update Addon Base Image to v14 
