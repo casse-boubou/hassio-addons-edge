@@ -1,6 +1,6 @@
 name: Monerod
 url: https://github.com/erdnaxela02/addon-monerod
-version: 36781db
+version: ae7fdec
 slug: monerod
 arch:
 - aarch64
