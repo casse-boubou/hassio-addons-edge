@@ -1,4 +1,8 @@
 # Changelog since v1.3.1
+- Merge pull request #11 from erdnaxela02/renovate/internal-packages
+
+⬆️ Update internal packages to v10.11.5-r0 
+- ⬆️ Update internal packages to v10.11.5-r0 
 - Merge pull request #8 from erdnaxela02/renovate/ghcr.io-hassio-addons-base-14.x
 
 ⬆️ Update Addon Base Image to v14.1.0 
