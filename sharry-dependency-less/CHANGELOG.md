@@ -1,4 +1,8 @@
 # Changelog since v1.3.1
+- Merge pull request #13 from erdnaxela02/renovate/ghcr.io-hassio-addons-base-14.x
+
+⬆️ Update Addon Base Image to v14.2.1 
+- ⬆️ Update Addon Base Image to v14.2.1 
 - Update Workflows 
 - DELETE Codenotary Community Attestation Service (CAS) 
 - Downgrade Base Image to v14.2.0 
