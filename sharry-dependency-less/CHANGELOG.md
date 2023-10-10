@@ -1,4 +1,5 @@
 # Changelog since v1.3.1
+- Update dev name 
 - Update Workflows 
 - Merge pull request #13 from erdnaxela02/renovate/ghcr.io-hassio-addons-base-14.x
 
