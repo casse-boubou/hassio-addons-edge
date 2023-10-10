@@ -1,4 +1,5 @@
 # Changelog since v2.1.0
+- Update dev name 
 - Merge pull request #12 from erdnaxela02/renovate/schernykh-p2pool-3.x
 
 ✨ Update P2Pool to v3.7 
