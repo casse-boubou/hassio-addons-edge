@@ -1,4 +1,8 @@
 # Changelog since v2.1.0
+- Merge pull request #14 from erdnaxela02/renovate/ghcr.io-hassio-addons-debian-base-7.x
+
+⬆️ Update Addon Base Image to v7.2.0 
+- ⬆️ Update Addon Base Image to v7.2.0 
 - Merge pull request #13 from erdnaxela02/renovate/ghcr.io-hassio-addons-debian-base-7.x
 
 ⬆️ Update Addon Base Image to v7.1.1 
