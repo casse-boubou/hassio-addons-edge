@@ -17,7 +17,3 @@ addons:
     repository: erdnaxela02/addon-monerod
     target: monerod
     image: ghcr.io/erdnaxela02/monerod/{arch}
-  test:
-    repository: erdnaxela02/test
-    target: test
-    image: ghcr.io/erdnaxela02/test/{arch}
