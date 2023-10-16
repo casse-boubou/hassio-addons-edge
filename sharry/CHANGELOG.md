@@ -1,4 +1,5 @@
 # Changelog since v1.1.1
+- Update LICENSE and default sharry.conf 
 - Update Sharry and dependencies 
 - test downgrade 
 - test 

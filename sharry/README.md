@@ -23,7 +23,7 @@ Si vous avez une question concernant HA et ses add-ons vous pouvez consulter:
 
 - [Le Forum communautaire francophone][HACF] de HomeAssistant
 - [Le Forum communautaire anglophone][forum] de HomeAssistant.
-- [Le serveur Discord][discord-ha] de HomeAssistant..
+- [Le serveur Discord][discord-ha] de HomeAssistant.
 
 ## Authors & contributors
 
@@ -35,7 +35,7 @@ Pour une liste complète des auteurs et contributeurs merci de consulter la [pag
 
 MIT License
 
-Copyright (c) 2022 [Frosh][Frosh]
+Copyright (c) 2022-2023 [Frosh][Frosh]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -56,7 +56,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 > **_Parts of the project are copied and inspired by a project originally Copyright
-> (c) 2021-2022 [Mike Degatano][mdegat01], distributed under [MIT License.][sharrylicense]:_**
+> (c) 2021-2023 [Mike Degatano][mdegat01], distributed under [MIT License.][sharrylicense]:_**
 >
 > > Permission is hereby granted, free of charge, to any person obtaining a copy
 > > of this software and associated documentation files (the "Software"), to deal
