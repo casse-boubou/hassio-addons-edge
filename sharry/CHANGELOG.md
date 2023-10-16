@@ -1,4 +1,5 @@
 # Changelog since v1.1.1
+- Migrate add-on layout to S6 Overlay 
 - Update LICENSE and default sharry.conf 
 - Update Sharry and dependencies 
 - test downgrade 
