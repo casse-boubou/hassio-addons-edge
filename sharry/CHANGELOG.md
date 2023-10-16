@@ -1,4 +1,13 @@
 # Changelog since v1.1.1
+- Update Sharry and dependencies 
+- test downgrade 
+- test 
+- test 
+- Update config.yaml 
+- Update build.yaml 
+- Update Sharry and dependencies 
+- Update LICENSE/WORKFLOWS ans ADD RENOVATE for updatebot 
+- Update dev name 
 - Prettified Code! 
 - Update License and translations 
 - Bump addon base from 12.2.3 to 12.2.7 
