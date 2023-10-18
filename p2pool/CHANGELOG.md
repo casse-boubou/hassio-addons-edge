@@ -1,4 +1,5 @@
 # Changelog since v2.1.0
+- Restructuring of the status command 
 - Migrate add-on layout to S6 Overlay 
 - Merge pull request #14 from erdnaxela02/renovate/ghcr.io-hassio-addons-debian-base-7.x
 
