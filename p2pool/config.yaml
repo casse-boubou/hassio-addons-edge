@@ -1,6 +1,6 @@
 name: P2Pool
 url: https://github.com/erdnaxela02/addon-p2pool
-version: ce1776a
+version: b7cfde4
 slug: p2pool
 arch:
 - aarch64
