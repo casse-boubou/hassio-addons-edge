@@ -1,4 +1,5 @@
 # Changelog since v1.1.1
+- Adjustment of default chunk-size parameter 
 - Add NGINX for SSL connexion 
 - Migrate add-on layout to S6 Overlay 
 - Update LICENSE and default sharry.conf 
