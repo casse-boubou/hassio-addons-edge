@@ -1,7 +1,5 @@
-# Changelog since v1.4.0
-- Merge pull request #15 from erdnaxela02/renovate/internal-packages
+# Changelog since v2.0.0
+- Merge pull request #16 from erdnaxela02/renovate/ghcr.io-hassio-addons-base-14.x
 
-⬆️ Update alpine_3_18/openjdk11-jre to v11.0.21_p9-r0 
-- ⬆️ Update alpine_3_18/openjdk11-jre to v11.0.21_p9-r0 
-- Adjustment of default chunk-size parameter 
-- Add NGINX for SSL connexion 
+⬆️ Update Addon Base Image to v14.3.0 
+- ⬆️ Update Addon Base Image to v14.3.0 
