@@ -1,3 +1,5 @@
-# Changelog since v1.2.0
-- Adjustment of default chunk-size parameter 
-- Add NGINX for SSL connexion 
+# Changelog since v2.0.0
+- Merge pull request #3 from erdnaxela02/renovate/ghcr.io-hassio-addons-base-14.x
+
+⬆️ Update Addon Base Image to v14.3.0 
+- ⬆️ Update Addon Base Image to v14.3.0 
