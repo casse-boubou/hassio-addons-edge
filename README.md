@@ -161,9 +161,9 @@ SOFTWARE.
 [sharry-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [sharry-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 
-[addon-sharry-dependency-less]: https://github.com/erdnaxela02/addon-sharry-dependency-less/tree/382ed40
-[addon-doc-sharry-dependency-less]: https://github.com/erdnaxela02/addon-sharry-dependency-less/blob/382ed40/README.md
-[sharry-dependency-less-version-shield]: https://img.shields.io/badge/version-382ed40-yellow.svg
+[addon-sharry-dependency-less]: https://github.com/erdnaxela02/addon-sharry-dependency-less/tree/0b6be73
+[addon-doc-sharry-dependency-less]: https://github.com/erdnaxela02/addon-sharry-dependency-less/blob/0b6be73/README.md
+[sharry-dependency-less-version-shield]: https://img.shields.io/badge/version-0b6be73-yellow.svg
 [add-addon-sharry-dependency-less]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=178dacac_sharry-dependency-less
 [sharry-dependency-less-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [sharry-dependency-less-amd64-shield]: https://img.shields.io/badge/amd64-no-red.svg
