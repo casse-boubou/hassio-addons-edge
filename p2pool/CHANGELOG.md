@@ -1,4 +1,8 @@
 # Changelog since v3.0.0
+- Merge pull request #17 from erdnaxela02/renovate/ghcr.io-hassio-addons-debian-base-7.x
+
+⬆️ Update Addon Base Image to v7.3.0 
+- ⬆️ Update Addon Base Image to v7.3.0 
 - Merge pull request #16 from erdnaxela02/renovate/schernykh-p2pool-3.x
 
 ✨ Update P2Pool to v3.9 
