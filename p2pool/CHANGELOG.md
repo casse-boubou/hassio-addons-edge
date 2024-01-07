@@ -1,4 +1,8 @@
 # Changelog since v3.0.0
+- Merge pull request #19 from erdnaxela02/renovate/schernykh-p2pool-3.x
+
+✨ Update P2Pool to v3.10 
+- ✨ Update P2Pool to v3.10 
 - 🎆 Updates maintenance/license year to 2024 
 - Merge pull request #18 from erdnaxela02/renovate/ghcr.io-hassio-addons-debian-base-7.x
 
