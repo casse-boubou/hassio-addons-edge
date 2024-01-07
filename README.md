@@ -151,9 +151,9 @@ SOFTWARE.
 [p2pool-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [p2pool-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 
-[addon-sharry]: https://github.com/erdnaxela02/addon-sharry/tree/1f0f0ec
-[addon-doc-sharry]: https://github.com/erdnaxela02/addon-sharry/blob/1f0f0ec/README.md
-[sharry-version-shield]: https://img.shields.io/badge/version-1f0f0ec-yellow.svg
+[addon-sharry]: https://github.com/erdnaxela02/addon-sharry/tree/635674d
+[addon-doc-sharry]: https://github.com/erdnaxela02/addon-sharry/blob/635674d/README.md
+[sharry-version-shield]: https://img.shields.io/badge/version-635674d-yellow.svg
 [add-addon-sharry]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=178dacac_sharry
 [sharry-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [sharry-amd64-shield]: https://img.shields.io/badge/amd64-no-red.svg

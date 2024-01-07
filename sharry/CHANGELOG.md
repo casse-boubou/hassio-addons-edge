@@ -1,4 +1,5 @@
 # Changelog since v2.0.0
+- 🎆 Updates maintenance/license year to 2024 
 - Merge pull request #13 from erdnaxela02/renovate/ghcr.io-hassio-addons-base-15.x
 
 ⬆️ Update Addon Base Image to v15.0.3 
