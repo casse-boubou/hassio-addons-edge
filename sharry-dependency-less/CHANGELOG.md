@@ -1,2 +1,2 @@
-# Changelog since v2.1.0
-- 🔧 Update .conf file to default 
+# Changelog since v2.1.1
+- 📦 Prepare for Sharry 1.13.0 
