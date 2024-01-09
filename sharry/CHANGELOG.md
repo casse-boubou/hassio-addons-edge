@@ -1,4 +1,5 @@
 # Changelog since v2.1.1
+- 🐛 Fix issue with login page auth 
 - Merge pull request #14 from erdnaxela02/renovate/eikek-sharry-1.x
 
 ✨ Update Sharry to v1.13.0 
