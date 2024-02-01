@@ -1,4 +1,8 @@
 # Changelog since v2.2.0
+- Merge pull request #21 from erdnaxela02/renovate/internal-packages
+
+⬆️ Update alpine_3_19/nginx to v1.24.0-r15 
+- ⬆️ Update alpine_3_19/nginx to v1.24.0-r15 
 - Merge pull request #18 from erdnaxela02/renovate/eikek-sharry-1.x
 
 ✨ Update Sharry to v1.13.1 
