@@ -1,4 +1,8 @@
 # Changelog since v2.2.0
+- Merge pull request #34 from erdnaxela02/renovate/eikek-sharry-1.x
+
+✨ Update Sharry to v1.13.2 
+- ✨ Update Sharry to v1.13.2 
 - Merge pull request #33 from erdnaxela02/renovate/ghcr.io-hassio-addons-base-15.x
 
 ⬆️ Update Addon Base Image to v15.0.7 
