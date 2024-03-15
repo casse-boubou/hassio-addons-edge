@@ -1,4 +1,9 @@
 # Changelog since v2.2.0
+- Merge pull request #22 from erdnaxela02/renovate/ghcr.io-hassio-addons-base-15.x
+
+⬆️ Update Addon Base Image to v15.0.7 
+- Prettified Code! 
+- ⬆️ Update Addon Base Image to v15.0.7 
 - Merge pull request #20 from erdnaxela02/renovate/ghcr.io-hassio-addons-base-15.x
 
 ⬆️ Update Addon Base Image to v15.0.6 
