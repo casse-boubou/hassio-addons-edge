@@ -1,4 +1,8 @@
 # Changelog since v2.2.0
+- Merge pull request #37 from erdnaxela02/renovate/internal-packages
+
+⬆️ Update alpine_3_19/nginx to v1.24.0-r16 
+- ⬆️ Update alpine_3_19/nginx to v1.24.0-r16 
 - Merge pull request #36 from erdnaxela02/renovate/internal-packages
 
 ⬆️ Update alpine_3_19/openjdk17-jre to v17.0.11_p9-r0 
