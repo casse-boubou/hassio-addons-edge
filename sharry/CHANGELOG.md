@@ -1,4 +1,8 @@
 # Changelog since v2.2.0
+- Merge pull request #26 from erdnaxela02/renovate/internal-packages
+
+⬆️ Update alpine_3_19/nginx to v1.24.0-r16 
+- ⬆️ Update alpine_3_19/nginx to v1.24.0-r16 
 - Merge pull request #24 from erdnaxela02/renovate/ghcr.io-hassio-addons-base-15.x
 
 ⬆️ Update Addon Base Image to v15.0.8 
