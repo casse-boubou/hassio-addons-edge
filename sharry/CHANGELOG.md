@@ -1,4 +1,5 @@
 # Changelog since v2.2.0
+- ⬆️ Update Addon Base Image to v16 and dependency-packages 
 - Merge pull request #26 from erdnaxela02/renovate/internal-packages
 
 ⬆️ Update alpine_3_19/nginx to v1.24.0-r16 
