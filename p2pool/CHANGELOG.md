@@ -1,4 +1,5 @@
 # Changelog since v3.0.1
+- 🚚 Change P2pool outpout directory to new add-on mapping 
 - 🎨 Migrate add-on to new Home Assistant configuration mapping 
 - Merge pull request #21 from erdnaxela02/renovate/ghcr.io-hassio-addons-debian-base-7.x
 
