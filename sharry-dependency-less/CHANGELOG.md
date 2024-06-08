@@ -1,4 +1,5 @@
-# Changelog since v2.2.1
-- Remove NGINX inside Add-on
+# Changelog since v3.0.0
+- Merge pull request #40 from erdnaxela02/renovate/ghcr.io-hassio-addons-base-16.x
 
-Remove NGINX in the add-on. Because now I prefer to use a reverse proxy 
+⬆️ Update Addon Base Image to v16.0.1 
+- ⬆️ Update Addon Base Image to v16.0.1 
