@@ -1,4 +1,5 @@
 # Changelog since v3.0.0
+- 📦 Prepare .conf for Sharry v1.14.0 
 - 🎨 Improvements of handles for non editable values 
 - 🔧 Missed update on v1.13.2 
 - Merge pull request #29 from erdnaxela02/renovate/ghcr.io-hassio-addons-base-16.x
