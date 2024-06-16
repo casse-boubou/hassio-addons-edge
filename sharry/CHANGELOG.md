@@ -1,4 +1,8 @@
 # Changelog since v3.0.0
+- Merge pull request #30 from erdnaxela02/renovate/eikek-sharry-1.x
+
+✨ Update Sharry to v1.14.0 
+- ✨ Update Sharry to v1.14.0 
 - 📦 Prepare .conf for Sharry v1.14.0 
 - 🎨 Improvements of handles for non editable values 
 - 🔧 Missed update on v1.13.2 
