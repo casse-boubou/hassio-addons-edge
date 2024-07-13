@@ -141,9 +141,9 @@ SOFTWARE.
 [monerod-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [monerod-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 
-[addon-p2pool]: https://github.com/erdnaxela02/addon-p2pool/tree/b0e4cdb
-[addon-doc-p2pool]: https://github.com/erdnaxela02/addon-p2pool/blob/b0e4cdb/README.md
-[p2pool-version-shield]: https://img.shields.io/badge/version-b0e4cdb-yellow.svg
+[addon-p2pool]: https://github.com/erdnaxela02/addon-p2pool/tree/294bc36
+[addon-doc-p2pool]: https://github.com/erdnaxela02/addon-p2pool/blob/294bc36/README.md
+[p2pool-version-shield]: https://img.shields.io/badge/version-294bc36-yellow.svg
 [add-addon-p2pool]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=178dacac_p2pool
 [p2pool-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [p2pool-amd64-shield]: https://img.shields.io/badge/amd64-no-red.svg
