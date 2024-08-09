@@ -20,7 +20,7 @@ Ce répertoire est creer pour:
 
 Si vous cherchez plutot une version stable:
 
-<https://github.com/erdnaxela02/hassio-addons>
+<https://github.com/casse-boubou/hassio-addons>
 
 ## Installation
 
@@ -33,7 +33,7 @@ Ou sinon vous pouvez copier cet URL et l'ajouter manuellement dans le
 add-on store de votre HA:
 
 ```txt
-https://github.com/erdnaxela02/hassio-addons-edge
+https://github.com/casse-boubou/hassio-addons-edge
 ```
 
 ## Add-ons disponible
@@ -131,8 +131,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-monerod]: https://github.com/erdnaxela02/addon-monerod/tree/20d4bfc
-[addon-doc-monerod]: https://github.com/erdnaxela02/addon-monerod/blob/20d4bfc/README.md
+[addon-monerod]: https://github.com/casse-boubou/addon-monerod/tree/20d4bfc
+[addon-doc-monerod]: https://github.com/casse-boubou/addon-monerod/blob/20d4bfc/README.md
 [monerod-version-shield]: https://img.shields.io/badge/version-20d4bfc-yellow.svg
 [add-addon-monerod]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=178dacac_monerod
 [monerod-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
@@ -141,8 +141,8 @@ SOFTWARE.
 [monerod-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [monerod-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 
-[addon-p2pool]: https://github.com/erdnaxela02/addon-p2pool/tree/5a19e2a
-[addon-doc-p2pool]: https://github.com/erdnaxela02/addon-p2pool/blob/5a19e2a/README.md
+[addon-p2pool]: https://github.com/casse-boubou/addon-p2pool/tree/5a19e2a
+[addon-doc-p2pool]: https://github.com/casse-boubou/addon-p2pool/blob/5a19e2a/README.md
 [p2pool-version-shield]: https://img.shields.io/badge/version-5a19e2a-yellow.svg
 [add-addon-p2pool]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=178dacac_p2pool
 [p2pool-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
@@ -151,8 +151,8 @@ SOFTWARE.
 [p2pool-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [p2pool-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 
-[addon-sharry]: https://github.com/erdnaxela02/addon-sharry/tree/b8bcbf5
-[addon-doc-sharry]: https://github.com/erdnaxela02/addon-sharry/blob/b8bcbf5/README.md
+[addon-sharry]: https://github.com/casse-boubou/addon-sharry/tree/b8bcbf5
+[addon-doc-sharry]: https://github.com/casse-boubou/addon-sharry/blob/b8bcbf5/README.md
 [sharry-version-shield]: https://img.shields.io/badge/version-b8bcbf5-yellow.svg
 [add-addon-sharry]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=178dacac_sharry
 [sharry-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
@@ -161,8 +161,8 @@ SOFTWARE.
 [sharry-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [sharry-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 
-[addon-sharry-dependency-less]: https://github.com/erdnaxela02/addon-sharry-dependency-less/tree/b549310
-[addon-doc-sharry-dependency-less]: https://github.com/erdnaxela02/addon-sharry-dependency-less/blob/b549310/README.md
+[addon-sharry-dependency-less]: https://github.com/casse-boubou/addon-sharry-dependency-less/tree/b549310
+[addon-doc-sharry-dependency-less]: https://github.com/casse-boubou/addon-sharry-dependency-less/blob/b549310/README.md
 [sharry-dependency-less-version-shield]: https://img.shields.io/badge/version-b549310-yellow.svg
 [add-addon-sharry-dependency-less]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=178dacac_sharry-dependency-less
 [sharry-dependency-less-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
@@ -173,9 +173,9 @@ SOFTWARE.
 
 [add-addon-shield]: https://my.home-assistant.io/badges/supervisor_addon.svg
 [add-repo-shield]: https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg
-[add-repo]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A//github.com/erdnaxela02/hassio-addons-edge
-[license-shield]: https://img.shields.io/github/license/erdnaxela02/hassio-addons-edge.svg
+[add-repo]: https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A//github.com/casse-boubou/hassio-addons-edge
+[license-shield]: https://img.shields.io/github/license/casse-boubou/hassio-addons-edge.svg
 [discord-ha]: https://discord.gg/c5DvZ4e
 [forum]: https://community.home-assistant.io/
 [HACF]: https://forum.hacf.fr/
-[Frosh]: https://github.com/erdnaxela02
+[Frosh]: https://github.com/casse-boubou
