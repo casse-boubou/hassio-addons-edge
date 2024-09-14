@@ -1,4 +1,8 @@
 # Changelog since v0.3.1
+- Merge pull request #19 from casse-boubou/renovate/ghcr.io-hassio-addons-debian-base-7.x
+
+⬆️ Update Addon Base Image to v7.5.0 
+- ⬆️ Update Addon Base Image to v7.5.0 
 - Merge pull request #18 from casse-boubou/renovate/monero-project-monero-0.x
 
 ✨ Update MoneroD to v0.18.3.4 
