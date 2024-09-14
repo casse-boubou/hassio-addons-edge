@@ -1,4 +1,8 @@
 # Changelog since v0.3.1
+- Merge pull request #18 from casse-boubou/renovate/monero-project-monero-0.x
+
+✨ Update MoneroD to v0.18.3.4 
+- ✨ Update MoneroD to v0.18.3.4 
 - Update Github repo 
 - Merge pull request #17 from erdnaxela02/renovate/ghcr.io-hassio-addons-debian-base-7.x
 
