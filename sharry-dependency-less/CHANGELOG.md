@@ -1,4 +1,8 @@
 # Changelog since v3.1.0
+- Merge pull request #47 from casse-boubou/renovate/ghcr.io-hassio-addons-base-16.x
+
+⬆️ Update Addon Base Image to v16.3.1 
+- ⬆️ Update Addon Base Image to v16.3.1 
 - Merge pull request #45 from casse-boubou/renovate/internal-packages
 
 ⬆️ Update alpine_3_19/openjdk17-jre to v17.0.12_p7-r0 
