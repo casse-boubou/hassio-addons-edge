@@ -1,6 +1,6 @@
 name: Monerod
 url: https://github.com/casse-boubou/addon-monerod
-version: 26d64cc
+version: f66ed8b
 slug: monerod
 arch:
 - aarch64
