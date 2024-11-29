@@ -1,4 +1,18 @@
 # Changelog since v3.1.0
+- Merge pull request #50 from casse-boubou/renovate/internal-packages
+
+⬆️ Update internal packages to v10.11.10-r0 
+- ⬆️ Update internal packages to v10.11.10-r0 
+- ⬆️ Renovate dependency-packages Alpine 3_19 to 3_20 
+- Merge pull request #48 from casse-boubou/renovate/ghcr.io-hassio-addons-base-16.x
+
+⬆️ Update Addon Base Image to v16.3.6 
+- ⬆️ Update Addon Base Image to v16.3.6 
+- ⬆️ Update dependency-packages 
+- Merge pull request #49 from casse-boubou/renovate/internal-packages
+
+⬆️ Update alpine_3_19/openjdk17-jre to v17.0.13_p11-r0 
+- ⬆️ Update alpine_3_19/openjdk17-jre to v17.0.13_p11-r0 
 - Merge pull request #47 from casse-boubou/renovate/ghcr.io-hassio-addons-base-16.x
 
 ⬆️ Update Addon Base Image to v16.3.1 
