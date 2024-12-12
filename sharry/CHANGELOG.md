@@ -1,4 +1,22 @@
 # Changelog since v3.1.0
+- Merge pull request #42 from casse-boubou/renovate/major-internal-packages
+
+⬆️ Update alpine_3_21/mariadb-client to v11 
+- ⬆️ Update alpine_3_21/mariadb-client to v11 
+- Merge pull request #41 from casse-boubou/renovate/internal-packages
+
+⬆️ Update internal packages 
+- ⬆️ Update internal packages 
+- Merge pull request #40 from casse-boubou/renovate/migrate-config
+
+Migrate renovate config 
+- Prettified Code! 
+- Migrate config .github/renovate.json 
+- Merge pull request #39 from casse-boubou/renovate/ghcr.io-hassio-addons-base-17.x
+
+⬆️ Update Addon Base Image to v17 
+- 📦 Prepare for base image v17 
+- ⬆️ Update Addon Base Image to v17 
 - Merge pull request #38 from casse-boubou/renovate/internal-packages
 
 ⬆️ Update internal packages 
