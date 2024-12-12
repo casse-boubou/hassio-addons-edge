@@ -1,4 +1,22 @@
 # Changelog since v3.1.0
+- Merge pull request #54 from casse-boubou/renovate/major-internal-packages
+
+⬆️ Update internal packages to v11 (major) 
+- ⬆️ Update internal packages to v11 
+- Merge pull request #53 from casse-boubou/renovate/internal-packages
+
+⬆️ Update internal packages 
+- ⬆️ Update internal packages 
+- Merge pull request #52 from casse-boubou/renovate/migrate-config
+
+Migrate renovate config 
+- Prettified Code! 
+- Migrate config .github/renovate.json 
+- Merge pull request #51 from casse-boubou/renovate/ghcr.io-hassio-addons-base-17.x
+
+⬆️ Update Addon Base Image to v17 
+- ⬆️ Update Addon Base Image to v17 
+- 📦 Prepare for base image v17 
 - Merge pull request #50 from casse-boubou/renovate/internal-packages
 
 ⬆️ Update internal packages to v10.11.10-r0 
