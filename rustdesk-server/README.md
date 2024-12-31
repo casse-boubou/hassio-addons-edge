@@ -24,7 +24,6 @@ Si vous avez une question concernant HA et ses add-ons vous pouvez consulter:
 
 MIT License
 
-
 Copyright (c) 2025 [Frosh][Frosh]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
