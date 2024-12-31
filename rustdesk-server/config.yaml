@@ -1,6 +1,6 @@
 name: Rustdesk-Server
 url: https://github.com/casse-boubou/addon-rustdesk-server
-version: 380f4f3
+version: 93daec2
 slug: rustdesk-server
 arch:
 - aarch64
