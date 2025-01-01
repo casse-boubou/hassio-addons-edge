@@ -1,4 +1,5 @@
 # Changelog since v3.0.1
+- 🎆 Updates maintenance/license year to 2025 
 - Merge pull request #29 from casse-boubou/renovate/ghcr.io-hassio-addons-debian-base-7.x
 
 ⬆️ Update Addon Base Image to v7.6.2 
