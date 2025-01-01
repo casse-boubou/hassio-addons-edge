@@ -1,4 +1,5 @@
 # Changelog since v3.1.0
+- 🎆 Updates maintenance/license year to 2025 
 - Merge pull request #54 from casse-boubou/renovate/major-internal-packages
 
 ⬆️ Update internal packages to v11 (major) 
