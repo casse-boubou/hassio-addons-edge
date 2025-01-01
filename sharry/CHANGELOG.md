@@ -1,5 +1,9 @@
 # Changelog since v3.1.0
+- Merge pull request #43 from casse-boubou/renovate/ghcr.io-hassio-addons-base-17.x
+
+⬆️ Update Addon Base Image to v17.0.1 
 - 🎆 Updates maintenance/license year to 2025 
+- ⬆️ Update Addon Base Image to v17.0.1 
 - Merge pull request #42 from casse-boubou/renovate/major-internal-packages
 
 ⬆️ Update alpine_3_21/mariadb-client to v11 
