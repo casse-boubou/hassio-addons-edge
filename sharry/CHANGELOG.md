@@ -1,4 +1,5 @@
 # Changelog since v3.1.0
+- 🎆 Updates maintenance/license year to 2025 
 - Merge pull request #42 from casse-boubou/renovate/major-internal-packages
 
 ⬆️ Update alpine_3_21/mariadb-client to v11 
