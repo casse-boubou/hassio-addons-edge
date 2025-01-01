@@ -1,4 +1,5 @@
 # Changelog since v0.3.1
+- 🎆 Updates maintenance/license year to 2025 
 - 🗑️ clean DOCS 
 - Merge pull request #21 from casse-boubou/renovate/ghcr.io-hassio-addons-debian-base-7.x
 
