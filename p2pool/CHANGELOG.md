@@ -1,4 +1,8 @@
 # Changelog since v3.0.1
+- Merge pull request #30 from casse-boubou/renovate/schernykh-p2pool-4.x
+
+✨ Update P2Pool to v4.3 
+- ✨ Update P2Pool to v4.3 
 - Preparation before P2Pool v4.3 changes
 
 Add --data-dir commande line options for define default path to store general p2pool files 
