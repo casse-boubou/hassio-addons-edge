@@ -1,8 +1,5 @@
-# Changelog since v0.1.0
-- Prettified Code! 
-- 🚨 Fix compiler YAMLLint warnings 
-- 💄 Reorganise config port
+# Changelog since v0.1.1
+- Merge pull request #3 from casse-boubou/renovate/ghcr.io-hassio-addons-base-aarch64-17.x
 
-Organize port configuration to separate pro and free version 
-- 🔊 Add print version in log 
-- 📝 fix auto add button url 
+⬆️ Update Addon Base Image to v17.1.0 
+- ⬆️ Update Addon Base Image to v17.1.0 
