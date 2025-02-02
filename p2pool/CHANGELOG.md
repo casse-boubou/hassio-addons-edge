@@ -1,52 +1,5 @@
-# Changelog since v3.0.1
-- Merge pull request #30 from casse-boubou/renovate/schernykh-p2pool-4.x
+# Changelog since v3.1.0
+- Merge pull request #31 from casse-boubou/renovate/ghcr.io-hassio-addons-debian-base-7.x
 
-✨ Update P2Pool to v4.3 
-- ✨ Update P2Pool to v4.3 
-- Preparation before P2Pool v4.3 changes
-
-Add --data-dir commande line options for define default path to store general p2pool files 
-- 🎆 Updates maintenance/license year to 2025 
-- Merge pull request #29 from casse-boubou/renovate/ghcr.io-hassio-addons-debian-base-7.x
-
-⬆️ Update Addon Base Image to v7.6.2 
-- ⬆️ Update Addon Base Image to v7.6.2 
-- Merge pull request #27 from casse-boubou/renovate/schernykh-p2pool-4.x
-
-✨ Update P2Pool to v4.2 
-- ✨ Update P2Pool to v4.2 
-- Merge pull request #28 from casse-boubou/renovate/ghcr.io-hassio-addons-debian-base-7.x
-
-⬆️ Update Addon Base Image to v7.6.1 
-- ⬆️ Update Addon Base Image to v7.6.1 
-- Merge pull request #25 from casse-boubou/renovate/schernykh-p2pool-4.x
-
-✨ Update P2Pool to v4.1 
-- ✨ Update P2Pool to v4.1 
-- Merge pull request #26 from casse-boubou/renovate/ghcr.io-hassio-addons-debian-base-7.x
-
-⬆️ Update Addon Base Image to v7.5.0 
-- ⬆️ Update Addon Base Image to v7.5.0 
-- Change Github repo 
-- Merge pull request #24 from erdnaxela02/renovate/schernykh-p2pool-4.x
-
-✨ Update P2Pool to v4 
-- ✨ Update P2Pool to v4 
-- Merge pull request #23 from erdnaxela02/renovate/ghcr.io-hassio-addons-debian-base-7.x
-
-⬆️ Update Addon Base Image to v7.4.0 
-- ⬆️ Update Addon Base Image to v7.4.0 
-- Merge pull request #22 from erdnaxela02/renovate/ghcr.io-hassio-addons-debian-base-7.x
-
-⬆️ Update Addon Base Image to v7.3.4 
-- ⬆️ Update Addon Base Image to v7.3.4 
-- 🚚 Change P2pool outpout directory to new add-on mapping 
-- 🎨 Migrate add-on to new Home Assistant configuration mapping 
-- Merge pull request #21 from erdnaxela02/renovate/ghcr.io-hassio-addons-debian-base-7.x
-
-⬆️ Update Addon Base Image to v7.3.3 
-- ⬆️ Update Addon Base Image to v7.3.3 
-- Merge pull request #20 from erdnaxela02/renovate/ghcr.io-hassio-addons-debian-base-7.x
-
-⬆️ Update Addon Base Image to v7.3.2 
-- ⬆️ Update Addon Base Image to v7.3.2 
+⬆️ Update Addon Base Image to v7.7.0 
+- ⬆️ Update Addon Base Image to v7.7.0 
