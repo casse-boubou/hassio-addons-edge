@@ -166,9 +166,9 @@ SOFTWARE.
 [p2pool-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [p2pool-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 
-[addon-rustdesk-server]: https://github.com/casse-boubou/addon-rustdesk-server/tree/bcc7d50
-[addon-doc-rustdesk-server]: https://github.com/casse-boubou/addon-rustdesk-server/blob/bcc7d50/README.md
-[rustdesk-server-version-shield]: https://img.shields.io/badge/version-bcc7d50-yellow.svg
+[addon-rustdesk-server]: https://github.com/casse-boubou/addon-rustdesk-server/tree/5fc3fe9
+[addon-doc-rustdesk-server]: https://github.com/casse-boubou/addon-rustdesk-server/blob/5fc3fe9/README.md
+[rustdesk-server-version-shield]: https://img.shields.io/badge/version-5fc3fe9-yellow.svg
 [add-addon-rustdesk-server]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=178dacac_rustdesk-server
 [rustdesk-server-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [rustdesk-server-amd64-shield]: https://img.shields.io/badge/amd64-no-red.svg
