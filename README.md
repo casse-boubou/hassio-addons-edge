@@ -174,7 +174,7 @@ SOFTWARE.
 [rustdesk-server-amd64-shield]: https://img.shields.io/badge/amd64-no-red.svg
 [rustdesk-server-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [rustdesk-server-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[rustdesk-server-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[rustdesk-server-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 
 [addon-sharry]: https://github.com/casse-boubou/addon-sharry/tree/5f75d4e
 [addon-doc-sharry]: https://github.com/casse-boubou/addon-sharry/blob/5f75d4e/README.md
