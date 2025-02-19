@@ -1,4 +1,8 @@
 # Changelog since v0.1.1
+- Merge pull request #6 from casse-boubou/renovate/ghcr.io-hassio-addons-base-aarch64-17.x
+
+⬆️ Update Addon Base Image to v17.2.1 
+- ⬆️ Update Addon Base Image to v17.2.1 
 - 🏗️ Add i386 Architecture 
 - Merge pull request #5 from casse-boubou/renovate/ghcr.io-hassio-addons-base-aarch64-17.x
 
