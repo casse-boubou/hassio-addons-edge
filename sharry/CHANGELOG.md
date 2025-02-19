@@ -1,4 +1,8 @@
 # Changelog since v3.2.0
+- Merge pull request #47 from casse-boubou/renovate/ghcr.io-hassio-addons-base-17.x
+
+⬆️ Update Addon Base Image to v17.2.1 
+- ⬆️ Update Addon Base Image to v17.2.1 
 - Merge pull request #45 from casse-boubou/renovate/ghcr.io-hassio-addons-base-17.x
 
 ⬆️ Update Addon Base Image to v17.2.0 
