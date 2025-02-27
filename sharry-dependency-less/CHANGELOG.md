@@ -1,4 +1,5 @@
 # Changelog since v3.2.0
+- Create .gitignore 
 - Merge pull request #59 from casse-boubou/renovate/ghcr.io-hassio-addons-base-17.x
 
 ⬆️ Update Addon Base Image to v17.2.1 
