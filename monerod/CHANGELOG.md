@@ -1,4 +1,5 @@
 # Changelog since v0.4.0
+- Create .gitignore 
 - Merge pull request #23 from casse-boubou/renovate/ghcr.io-hassio-addons-debian-base-7.x
 
 ⬆️ Update Addon Base Image to v7.7.1 
