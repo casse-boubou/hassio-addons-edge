@@ -1,4 +1,13 @@
 # Changelog since v0.1.1
+- 🚧 update dockerfile
+
+Fix aarch64 build 
+- 🚧 update dockerfile
+
+Fix i386 build 
+- 📦 update Dockerfile for adapt build arch
+
+Changes the Dockerfile for dinamicaly adapt to build arch 
 - 📦 Reinit 
 - 🚧 update dockerfile 
 - 🚧 update dockerfile 
