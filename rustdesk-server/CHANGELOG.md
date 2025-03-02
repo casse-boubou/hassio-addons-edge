@@ -1,4 +1,10 @@
 # Changelog since v0.1.1
+- 📦 Reinit 
+- 🚧 update dockerfile 
+- 🚧 update dockerfile 
+- 📦 update Dockerfile for adapt build arch
+
+Changes the Dockerfile for dinamicaly adapt to build arch 
 - Create .gitignore 
 - Merge pull request #6 from casse-boubou/renovate/ghcr.io-hassio-addons-base-aarch64-17.x
 
