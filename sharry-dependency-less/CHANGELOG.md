@@ -1,4 +1,13 @@
 # Changelog since v3.2.0
+- Merge pull request #61 from casse-boubou/Update-MariaDB-like-official-addon
+
+Update MariaDB 
+- Update MariaDB
+
+- Remove unused vars in sharry/rootfs/etc/s6-overlay/s6-rc.d/mariadb-core/finish
+- Increase MariaDB add-on shutdown timeout to 300s
+- Lint bash scripts with custom shebangs
+- Add support for mariadb server config parameter 
 - Merge pull request #60 from casse-boubou/renovate/internal-packages
 
 ⬆️ Update internal packages to v11.4.5-r0 
