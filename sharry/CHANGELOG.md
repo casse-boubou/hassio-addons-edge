@@ -1,4 +1,9 @@
 # Changelog since v3.2.0
+- Merge pull request #48 from casse-boubou/renovate/internal-packages
+
+⬆️ Update alpine_3_21/mariadb-client to v11.4.5-r0 
+- ⬆️ Update alpine_3_21/mariadb-client to v11.4.5-r0 
+- Create .gitignore 
 - Merge pull request #47 from casse-boubou/renovate/ghcr.io-hassio-addons-base-17.x
 
 ⬆️ Update Addon Base Image to v17.2.1 
