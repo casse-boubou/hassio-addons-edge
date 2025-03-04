@@ -1,4 +1,8 @@
 # Changelog since v3.2.0
+- Merge pull request #60 from casse-boubou/renovate/internal-packages
+
+⬆️ Update internal packages to v11.4.5-r0 
+- ⬆️ Update internal packages to v11.4.5-r0 
 - Create .gitignore 
 - Merge pull request #59 from casse-boubou/renovate/ghcr.io-hassio-addons-base-17.x
 
