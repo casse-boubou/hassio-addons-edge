@@ -1,4 +1,8 @@
 # Changelog since v3.2.0
+- Merge pull request #62 from casse-boubou/renovate/ghcr.io-hassio-addons-base-17.x
+
+⬆️ Update Addon Base Image to v17.2.4 
+- ⬆️ Update Addon Base Image to v17.2.4 
 - Merge pull request #61 from casse-boubou/Update-MariaDB-like-official-addon
 
 Update MariaDB 
