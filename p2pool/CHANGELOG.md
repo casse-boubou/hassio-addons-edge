@@ -1,4 +1,5 @@
 # Changelog since v3.1.0
+- ⬆️ Update Addon Base Image to v8 
 - Merge pull request #34 from casse-boubou/renovate/ghcr.io-hassio-addons-debian-base-7.x
 
 ⬆️ Update Addon Base Image to v7.8.1 
