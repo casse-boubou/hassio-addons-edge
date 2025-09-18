@@ -1,4 +1,5 @@
 # Changelog since v3.2.0
+- ⬆️ Update Addon Base Image to v18 and dependency 
 - Merge pull request #55 from casse-boubou/renovate/internal-packages
 
 ⬆️ Update internal packages 
