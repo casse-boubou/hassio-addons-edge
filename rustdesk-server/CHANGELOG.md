@@ -1,4 +1,6 @@
 # Changelog since v0.2.0
+- Undo bad Restdesk Server version 
+- Update RustDesk version 
 - Merge pull request #16 from casse-boubou/renovate/migrate-config
 
 Migrate renovate config 
