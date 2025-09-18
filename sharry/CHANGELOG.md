@@ -1,4 +1,8 @@
 # Changelog since v3.2.0
+- Merge pull request #55 from casse-boubou/renovate/internal-packages
+
+⬆️ Update internal packages 
+- ⬆️ Update internal packages 
 - Merge pull request #49 from casse-boubou/renovate/ghcr.io-hassio-addons-base-17.x
 
 ⬆️ Update Addon Base Image to v17.2.4 
