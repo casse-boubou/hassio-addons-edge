@@ -1,9 +1,13 @@
 # Changelog since v3.2.0
+- Merge pull request #68 from casse-boubou/renovate/eikek-sharry-1.15.0
+
+✨ Update Sharry to v1.15.0 
 - ⬆️ Update Addon Base Image to v18 and dependency 
 - Merge pull request #67 from casse-boubou/renovate/internal-packages
 
 ⬆️ Update internal packages 
 - ⬆️ Update internal packages 
+- ✨ Update Sharry to v1.15.0 
 - Merge pull request #62 from casse-boubou/renovate/ghcr.io-hassio-addons-base-17.x
 
 ⬆️ Update Addon Base Image to v17.2.4 
