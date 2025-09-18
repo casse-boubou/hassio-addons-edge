@@ -1,4 +1,5 @@
 # Changelog since v0.4.0
+- ⬆️ Update Addon Base Image to v8 and dependency 
 - Merge pull request #26 from casse-boubou/renovate/monero-project-monero-0.x
 
 ✨ Update MoneroD to v0.18.4.0 
