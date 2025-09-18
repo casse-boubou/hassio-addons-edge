@@ -1,4 +1,8 @@
 # Changelog since v3.2.0
+- Merge pull request #56 from casse-boubou/renovate/eikek-sharry-1.15.0
+
+✨ Update Sharry to v1.15.0 
+- ✨ Update Sharry to v1.15.0 
 - ⬆️ Update Addon Base Image to v18 and dependency 
 - Merge pull request #55 from casse-boubou/renovate/internal-packages
 
