@@ -1,4 +1,8 @@
 # Changelog since v3.2.0
+- Merge pull request #39 from casse-boubou/renovate/schernykh-p2pool-4.x
+
+✨ Update P2Pool to v4.12 
+- ✨ Update P2Pool to v4.12 
 - Merge pull request #41 from casse-boubou/renovate/migrate-config
 
 Migrate Renovate config 
