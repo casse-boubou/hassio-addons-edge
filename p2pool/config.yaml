@@ -1,11 +1,10 @@
 name: P2Pool
 url: https://github.com/casse-boubou/addon-p2pool
-version: ef2459e
+version: 19c585c
 slug: p2pool
 arch:
 - aarch64
 description: P2pool pour HomeAssistant
-codenotary: erdnaxela02@hotmail.fr
 init: false
 auth_api: true
 ports:
