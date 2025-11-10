@@ -1,4 +1,9 @@
 # Changelog since v3.3.0
+- Merge pull request #59 from casse-boubou/renovate/migrate-config
+
+Migrate Renovate config 
+- Prettified Code! 
+- Migrate config .github/renovate.json 
 - Merge pull request #57 from casse-boubou/renovate/ghcr.io-hassio-addons-base-18.x
 
 ⬆️ Update Addon Base Image to v18.2.1 
