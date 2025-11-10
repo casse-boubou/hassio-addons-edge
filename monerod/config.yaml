@@ -1,11 +1,10 @@
 name: Monerod
 url: https://github.com/casse-boubou/addon-monerod
-version: 4fe1252
+version: 777d5b8
 slug: monerod
 arch:
 - aarch64
 description: Monerod pour HomeAssistant
-codenotary: erdnaxela02@hotmail.fr
 init: false
 map:
 - media:rw
