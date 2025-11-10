@@ -1,12 +1,11 @@
 name: Rustdesk-Server
 url: https://github.com/casse-boubou/addon-rustdesk-server
-version: 8f45864
+version: 2c216f1
 slug: rustdesk-server
 arch:
 - aarch64
 - i386
 description: Rustdesk-Server pour HomeAssistant
-codenotary: erdnaxela02@hotmail.fr
 init: false
 map:
 - type: addon_config
