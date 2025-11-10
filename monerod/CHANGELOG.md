@@ -1,4 +1,9 @@
 # Changelog since v0.5.0
+- Merge pull request #33 from casse-boubou/renovate/migrate-config
+
+Migrate Renovate config 
+- Prettified Code! 
+- Migrate config .github/renovate.json 
 - Merge pull request #32 from casse-boubou/renovate/ghcr.io-hassio-addons-debian-base-8.x
 
 ⬆️ Update Addon Base Image to v8.1.4 
