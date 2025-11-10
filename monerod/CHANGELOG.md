@@ -1,4 +1,8 @@
 # Changelog since v0.5.0
+- Merge pull request #31 from casse-boubou/renovate/monero-project-monero-0.x
+
+✨ Update MoneroD to v0.18.4.3 
+- ✨ Update MoneroD to v0.18.4.3 
 - Merge pull request #33 from casse-boubou/renovate/migrate-config
 
 Migrate Renovate config 
