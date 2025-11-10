@@ -1,4 +1,9 @@
 # Changelog since v3.2.0
+- Merge pull request #41 from casse-boubou/renovate/migrate-config
+
+Migrate Renovate config 
+- Prettified Code! 
+- Migrate config .github/renovate.json 
 - Update for action-addon-linter v2.20.0 workflows 
 - Merge pull request #40 from casse-boubou/renovate/ghcr.io-hassio-addons-debian-base-8.x
 
