@@ -1,35 +1,10 @@
-# Changelog since v3.2.0
-- Merge pull request #56 from casse-boubou/renovate/eikek-sharry-1.15.0
+# Changelog since v3.3.0
+- Merge pull request #57 from casse-boubou/renovate/ghcr.io-hassio-addons-base-18.x
 
-✨ Update Sharry to v1.15.0 
-- ✨ Update Sharry to v1.15.0 
-- ⬆️ Update Addon Base Image to v18 and dependency 
-- Merge pull request #55 from casse-boubou/renovate/internal-packages
+⬆️ Update Addon Base Image to v18.2.1 
+- ⬆️ Update Addon Base Image to v18.2.1 
+- Merge pull request #58 from casse-boubou/renovate/internal-packages
 
-⬆️ Update internal packages 
-- ⬆️ Update internal packages 
-- Merge pull request #49 from casse-boubou/renovate/ghcr.io-hassio-addons-base-17.x
-
-⬆️ Update Addon Base Image to v17.2.4 
-- ⬆️ Update Addon Base Image to v17.2.4 
-- Merge pull request #48 from casse-boubou/renovate/internal-packages
-
-⬆️ Update alpine_3_21/mariadb-client to v11.4.5-r0 
-- ⬆️ Update alpine_3_21/mariadb-client to v11.4.5-r0 
-- Create .gitignore 
-- Merge pull request #47 from casse-boubou/renovate/ghcr.io-hassio-addons-base-17.x
-
-⬆️ Update Addon Base Image to v17.2.1 
-- ⬆️ Update Addon Base Image to v17.2.1 
-- Merge pull request #45 from casse-boubou/renovate/ghcr.io-hassio-addons-base-17.x
-
-⬆️ Update Addon Base Image to v17.2.0 
-- ⬆️ Update Addon Base Image to v17.2.0 
-- Merge pull request #46 from casse-boubou/renovate/internal-packages
-
-⬆️ Update alpine_3_21/openjdk17-jre to v17.0.14_p7-r0 
-- ⬆️ Update alpine_3_21/openjdk17-jre to v17.0.14_p7-r0 
-- Merge pull request #44 from casse-boubou/renovate/ghcr.io-hassio-addons-base-17.x
-
-⬆️ Update Addon Base Image to v17.1.0 
-- ⬆️ Update Addon Base Image to v17.1.0 
+⬆️ Update alpine_3_22/openjdk17-jre to v17.0.17_p10-r0 
+- Update for action-addon-linter v2.20.0 workflows 
+- ⬆️ Update alpine_3_22/openjdk17-jre to v17.0.17_p10-r0 
