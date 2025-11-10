@@ -1,11 +1,10 @@
 name: Sharry-dependency-less
 url: https://github.com/casse-boubou/addon-sharry-dependency-less
-version: e2fe08a
+version: 7c0c62c
 slug: sharry-dependency-less
 arch:
 - aarch64
 description: Sharry pour Home Assistant sans dependances a Mariadb
-codenotary: erdnaxela02@hotmail.fr
 init: false
 map:
 - share:rw
