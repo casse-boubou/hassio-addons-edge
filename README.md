@@ -176,9 +176,9 @@ SOFTWARE.
 [rustdesk-server-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [rustdesk-server-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 
-[addon-sharry]: https://github.com/casse-boubou/addon-sharry/tree/8b1bfce
-[addon-doc-sharry]: https://github.com/casse-boubou/addon-sharry/blob/8b1bfce/README.md
-[sharry-version-shield]: https://img.shields.io/badge/version-8b1bfce-yellow.svg
+[addon-sharry]: https://github.com/casse-boubou/addon-sharry/tree/51ef218
+[addon-doc-sharry]: https://github.com/casse-boubou/addon-sharry/blob/51ef218/README.md
+[sharry-version-shield]: https://img.shields.io/badge/version-51ef218-yellow.svg
 [add-addon-sharry]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=178dacac_sharry
 [sharry-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [sharry-amd64-shield]: https://img.shields.io/badge/amd64-no-red.svg
