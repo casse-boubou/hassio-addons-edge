@@ -1,4 +1,8 @@
 # Changelog since v0.5.0
+- Merge pull request #36 from casse-boubou/renovate/monero-project-monero-0.x
+
+✨ Update MoneroD to v0.18.4.5 
+- ✨ Update MoneroD to v0.18.4.5 
 - Merge pull request #35 from casse-boubou/renovate/monero-project-monero-0.x
 
 ✨ Update MoneroD to v0.18.4.4 
