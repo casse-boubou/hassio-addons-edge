@@ -1,4 +1,8 @@
 # Changelog since v0.2.1
+- Merge pull request #21 from casse-boubou/renovate/rustdesk-rustdesk-server-1.x
+
+✨ Update RustDesk-server to v1.1.15 
+- ✨ Update RustDesk-server to v1.1.15 
 - Merge pull request #20 from casse-boubou/renovate/ghcr.io-hassio-addons-base-i386-18.x
 
 ⬆️ Update Addon Base Image to v18.2.1 
