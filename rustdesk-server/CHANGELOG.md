@@ -1,4 +1,15 @@
 # Changelog since v0.2.1
+- Merge pull request #22 from casse-boubou/Refactoring-and-renaming-add-ons-to-apps
+
+Refactoring and renaming add ons to apps 
+- Remive i386 support
+
+Because drop i386 (32-bit x86) support
+https://github.com/home-assistant/architecture/discussions/1200
+https://www.home-assistant.io/blog/2025/05/22/deprecating-core-and-supervised-installation-methods-and-32-bit-systems 
+- Fix Yamlinter 
+- 🎆 Updates maintenance/license year to 2026 
+- Rename add-ons to apps 
 - Merge pull request #21 from casse-boubou/renovate/rustdesk-rustdesk-server-1.x
 
 ✨ Update RustDesk-server to v1.1.15 
