@@ -1,4 +1,15 @@
 # Changelog since v3.3.0
+- Merge pull request #74 from casse-boubou/Refactoring-and-renaming-add-ons-to-apps
+
+Refactoring and renaming add ons to apps 
+- Bump Dependencies 
+- Fix Yamlinter 
+- 🎆 Updates maintenance/license year to 2026 
+- Rename add-ons to apps 
+- Merge pull request #73 from casse-boubou/renovate/ghcr.io-hassio-addons-base-19.x
+
+⬆️ Update Addon Base Image to v19 
+- ⬆️ Update Addon Base Image to v19 
 - Merge pull request #72 from casse-boubou/renovate/migrate-config
 
 Migrate Renovate config 
