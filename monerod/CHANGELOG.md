@@ -1,4 +1,14 @@
 # Changelog since v0.5.0
+- Merge pull request #37 from casse-boubou/Refactoring-and-renaming-add-ons-to-apps
+
+Refactoring and renaming add ons to apps 
+- cette fois cest bon 
+- aller linter là 
+- damn linter 
+- fix yamllinter 
+- fix yamllinter 
+- 🎆 Updates maintenance/license year to 2026 
+- Rename add-ons to apps 
 - Merge pull request #36 from casse-boubou/renovate/monero-project-monero-0.x
 
 ✨ Update MoneroD to v0.18.4.5 
