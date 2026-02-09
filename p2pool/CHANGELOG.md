@@ -1,4 +1,10 @@
 # Changelog since v3.2.0
+- Merge pull request #44 from casse-boubou/Refactoring-and-renaming-add-ons-to-apps
+
+Refactoring and renaming add ons to apps 
+- Fix Yamlinter 
+- 🎆 Updates maintenance/license year to 2026 
+- Rename add-ons to apps 
 - Merge pull request #43 from casse-boubou/renovate/schernykh-p2pool-4.x
 
 ✨ Update P2Pool to v4.13 
