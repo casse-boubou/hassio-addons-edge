@@ -1,4 +1,8 @@
 # Changelog since v0.5.0
+- Merge pull request #38 from casse-boubou/renovate/monero-project-monero-0.x
+
+✨ Update MoneroD to v0.18.4.6 
+- ✨ Update MoneroD to v0.18.4.6 
 - Merge pull request #37 from casse-boubou/Refactoring-and-renaming-add-ons-to-apps
 
 Refactoring and renaming add ons to apps 
