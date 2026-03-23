@@ -156,9 +156,9 @@ SOFTWARE.
 [monerod-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [monerod-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 
-[addon-p2pool]: https://github.com/casse-boubou/addon-p2pool/tree/a4c31a3
-[addon-doc-p2pool]: https://github.com/casse-boubou/addon-p2pool/blob/a4c31a3/README.md
-[p2pool-version-shield]: https://img.shields.io/badge/version-a4c31a3-yellow.svg
+[addon-p2pool]: https://github.com/casse-boubou/addon-p2pool/tree/c5ffc42
+[addon-doc-p2pool]: https://github.com/casse-boubou/addon-p2pool/blob/c5ffc42/README.md
+[p2pool-version-shield]: https://img.shields.io/badge/version-c5ffc42-yellow.svg
 [add-addon-p2pool]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=178dacac_p2pool
 [p2pool-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [p2pool-amd64-shield]: https://img.shields.io/badge/amd64-no-red.svg
