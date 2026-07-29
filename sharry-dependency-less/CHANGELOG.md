@@ -1,4 +1,20 @@
 # Changelog since v3.3.0
+- Merge pull request #75 from casse-boubou/renovate/eikek-sharry-1.x
+
+✨ Update Sharry to v1.16.0 
+- ✨ Update Sharry to v1.16.0 
+- Merge pull request #77 from casse-boubou/renovate/ghcr.io-hassio-addons-base-21.x
+
+⬆️ Update App Base Image to v21 
+- ⬆️ Update App Base Image to v21 
+- Merge pull request #76 from casse-boubou/renovate/internal-packages
+
+⬆️ Update alpine_3_24/unzip to v6.0-r16 
+- ⬆️ Update alpine_3_24/unzip to v6.0-r16 
+- ⬆️ Update App Base Image to v21
+
+- ⬆️ Update Alpine base image to v3.24.0
+- In the banner, use bashio::app functions instead of the deprecated bashio::addon functions 
 - Merge pull request #74 from casse-boubou/Refactoring-and-renaming-add-ons-to-apps
 
 Refactoring and renaming add ons to apps 
