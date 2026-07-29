@@ -149,7 +149,7 @@ SOFTWARE.
 [addon-monerod]: https://github.com/casse-boubou/addon-monerod/tree/92081e5
 [addon-doc-monerod]: https://github.com/casse-boubou/addon-monerod/blob/92081e5/README.md
 [monerod-version-shield]: https://img.shields.io/badge/version-92081e5-yellow.svg
-[add-addon-monerod]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=178dacac_monerod
+[add-addon-monerod]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=2f6dcda4_monerod
 [monerod-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [monerod-amd64-shield]: https://img.shields.io/badge/amd64-no-red.svg
 [monerod-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -159,7 +159,7 @@ SOFTWARE.
 [addon-p2pool]: https://github.com/casse-boubou/addon-p2pool/tree/7b11aca
 [addon-doc-p2pool]: https://github.com/casse-boubou/addon-p2pool/blob/7b11aca/README.md
 [p2pool-version-shield]: https://img.shields.io/badge/version-7b11aca-yellow.svg
-[add-addon-p2pool]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=178dacac_p2pool
+[add-addon-p2pool]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=2f6dcda4_p2pool
 [p2pool-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [p2pool-amd64-shield]: https://img.shields.io/badge/amd64-no-red.svg
 [p2pool-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -169,7 +169,7 @@ SOFTWARE.
 [addon-rustdesk-server]: https://github.com/casse-boubou/addon-rustdesk-server/tree/57c791c
 [addon-doc-rustdesk-server]: https://github.com/casse-boubou/addon-rustdesk-server/blob/57c791c/README.md
 [rustdesk-server-version-shield]: https://img.shields.io/badge/version-57c791c-yellow.svg
-[add-addon-rustdesk-server]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=178dacac_rustdesk-server
+[add-addon-rustdesk-server]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=2f6dcda4_rustdesk-server
 [rustdesk-server-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [rustdesk-server-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [rustdesk-server-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -179,7 +179,7 @@ SOFTWARE.
 [addon-sharry]: https://github.com/casse-boubou/addon-sharry/tree/5bbed5f
 [addon-doc-sharry]: https://github.com/casse-boubou/addon-sharry/blob/5bbed5f/README.md
 [sharry-version-shield]: https://img.shields.io/badge/version-5bbed5f-yellow.svg
-[add-addon-sharry]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=178dacac_sharry
+[add-addon-sharry]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=2f6dcda4_sharry
 [sharry-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [sharry-amd64-shield]: https://img.shields.io/badge/amd64-no-red.svg
 [sharry-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -189,7 +189,7 @@ SOFTWARE.
 [addon-sharry-dependency-less]: https://github.com/casse-boubou/addon-sharry-dependency-less/tree/24174aa
 [addon-doc-sharry-dependency-less]: https://github.com/casse-boubou/addon-sharry-dependency-less/blob/24174aa/README.md
 [sharry-dependency-less-version-shield]: https://img.shields.io/badge/version-24174aa-yellow.svg
-[add-addon-sharry-dependency-less]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=178dacac_sharry-dependency-less
+[add-addon-sharry-dependency-less]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=2f6dcda4_sharry-dependency-less
 [sharry-dependency-less-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [sharry-dependency-less-amd64-shield]: https://img.shields.io/badge/amd64-no-red.svg
 [sharry-dependency-less-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
