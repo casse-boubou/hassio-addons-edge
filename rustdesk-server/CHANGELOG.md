@@ -1,4 +1,5 @@
 # Changelog since v0.2.1
+- 🏗️ Add amd64 Architecture 
 - ⬆️ Update Addon Base Image to v21 
 - Merge pull request #24 from casse-boubou/renovate/rustdesk-rustdesk-server-1.x
 
