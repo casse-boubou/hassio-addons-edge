@@ -1,4 +1,9 @@
 # Changelog since v0.2.1
+- ⬆️ Update Addon Base Image to v21 
+- Merge pull request #24 from casse-boubou/renovate/rustdesk-rustdesk-server-1.x
+
+✨ Update RustDesk-server to v1.1.16 
+- ✨ Update RustDesk-server to v1.1.16 
 - Merge pull request #22 from casse-boubou/Refactoring-and-renaming-add-ons-to-apps
 
 Refactoring and renaming add ons to apps 
