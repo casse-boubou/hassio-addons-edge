@@ -1,4 +1,12 @@
 # Changelog since v3.3.0
+- Merge pull request #62 from casse-boubou/renovate/eikek-sharry-1.x
+
+✨ Update Sharry to v1.16.0 
+- ✨ Update Sharry to v1.16.0 
+- ⬆️ Update App Base Image to v21
+
+- ⬆️ Update Alpine base image to v3.24.0
+- In the banner, use bashio::app functions instead of the deprecated bashio::addon functions 
 - Merge pull request #61 from casse-boubou/Refactoring-and-renaming-add-ons-to-apps
 
 Refactoring and renaming add ons to apps 
