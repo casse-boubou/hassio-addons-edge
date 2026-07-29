@@ -171,7 +171,7 @@ SOFTWARE.
 [rustdesk-server-version-shield]: https://img.shields.io/badge/version-945305d-yellow.svg
 [add-addon-rustdesk-server]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=178dacac_rustdesk-server
 [rustdesk-server-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[rustdesk-server-amd64-shield]: https://img.shields.io/badge/amd64-no-red.svg
+[rustdesk-server-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [rustdesk-server-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [rustdesk-server-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [rustdesk-server-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
