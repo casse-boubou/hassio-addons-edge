@@ -1,6 +1,8 @@
 # Changelog since v3.2.0
 - Update renovate.json 
 - Update renovate.json 
+- Update renovate.json 
+- Update renovate.json 
 - Merge pull request #47 from casse-boubou/renovate/schernykh-p2pool-4.x
 
 ✨ Update P2Pool to v4.17.1 
