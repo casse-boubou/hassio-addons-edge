@@ -1,4 +1,8 @@
 # Changelog since v0.5.0
+- Update renovate.json 
+- Update renovate.json 
+- Update renovate.json 
+- Update renovate.json 
 - Merge pull request #41 from casse-boubou/renovate/ghcr.io-hassio-addons-debian-base-9.x
 
 ⬆️ Update App Base Image to v9.3.0 
