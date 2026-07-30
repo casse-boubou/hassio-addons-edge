@@ -1,4 +1,8 @@
 # Changelog since v3.3.0
+- Update renovate.json 
+- Update renovate.json 
+- Update renovate.json 
+- Update renovate.json 
 - Merge pull request #62 from casse-boubou/renovate/eikek-sharry-1.x
 
 ✨ Update Sharry to v1.16.0 
