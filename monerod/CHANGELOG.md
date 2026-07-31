@@ -1,4 +1,5 @@
 # Changelog since v0.5.0
+- Improve build.yaml 
 - Test renovate config 
 - Pin casse-boubou/ha-addon-workflows action to a282ba7
 
