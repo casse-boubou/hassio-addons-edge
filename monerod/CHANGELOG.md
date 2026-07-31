@@ -1,4 +1,5 @@
 # Changelog since v0.5.0
+- Test renovate config 
 - Pin casse-boubou/ha-addon-workflows action to a282ba7
 
 Pin casse-boubou/ha-addon-workflows action to a282ba7 
