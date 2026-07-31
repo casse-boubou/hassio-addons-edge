@@ -1,4 +1,9 @@
 # Changelog since v3.2.0
+- Update renovate.json
+
+- Update renovate.json
+- Improve workflow
+- Improve dockerfile 
 - Update renovate.json 
 - Update renovate.json 
 - Update renovate.json 
