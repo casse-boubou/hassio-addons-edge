@@ -1,4 +1,5 @@
 # Changelog since v3.2.0
+- Improve build.yaml 
 - Merge pull request #51 from casse-boubou/renovate/pin-dependencies
 
 Pin casse-boubou/ha-addon-workflows action to 079177f 
