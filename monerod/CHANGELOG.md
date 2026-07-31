@@ -1,4 +1,5 @@
 # Changelog since v0.5.0
+- Increase max line length from 120 to 125 
 - Update renovate.json 
 - Update renovate.json 
 - Update renovate.json 
