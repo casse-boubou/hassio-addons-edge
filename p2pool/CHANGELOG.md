@@ -1,4 +1,8 @@
 # Changelog since v3.2.0
+- Merge pull request #51 from casse-boubou/renovate/pin-dependencies
+
+Pin casse-boubou/ha-addon-workflows action to 079177f 
+- Pin casse-boubou/ha-addon-workflows action to 079177f 
 - Update renovate.json
 
 - Update renovate.json
