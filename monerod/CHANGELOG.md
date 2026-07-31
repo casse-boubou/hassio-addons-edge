@@ -1,4 +1,25 @@
 # Changelog since v0.5.0
+- Pin casse-boubou/ha-addon-workflows action to a282ba7
+
+Pin casse-boubou/ha-addon-workflows action to a282ba7 
+- Add 'synchronize' event to pull request triggers 
+- Fix formatting in stale.yaml workflow reference 
+- Fix formatting in release-drafter.yaml 
+- Fix formatting in pr-labels.yaml 
+- Fix formatting in lock.yaml workflow reference 
+- Fix formatting in labels.yaml workflow reference 
+- Remove unnecessary whitespace in deploy.yaml 
+- Change min-spaces-from-content from 2 to 1 
+- Fix formatting in CI workflow YAML file 
+- Update .yamllint 
+- Fix formatting in stale.yaml workflow reference 
+- Fix formatting in release-drafter.yaml 
+- Fix comment formatting in pr-labels.yaml 
+- Fix formatting in lock.yaml workflow reference 
+- Fix formatting in labels.yaml workflow reference 
+- Fix formatting in deploy.yaml file 
+- Fix formatting in CI workflow file 
+- Pin casse-boubou/ha-addon-workflows action to a282ba7 
 - Increase max line length from 120 to 125 
 - Update renovate.json 
 - Update renovate.json 
