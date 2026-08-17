@@ -1,4 +1,11 @@
 # Changelog since v3.2.0
+- Update Workflows 
+- Update ci.yaml 
+- Update ci.yaml 
+- migrate to app_config folder mapping
+
+Rename the deprecated `addon_config` folder mapping to the new
+`app_config` name introduced in Home Assistant Supervisor (https://github.com/home-assistant/supervisor/pull/6992) 
 - Improve build.yaml 
 - Merge pull request #51 from casse-boubou/renovate/pin-dependencies
 
