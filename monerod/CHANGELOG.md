@@ -1,4 +1,6 @@
 # Changelog since v0.5.0
+- Update ci.yaml 
+- Update ci.yaml 
 - Restore after test 
 - Improve build.yaml 
 - Test renovate config 
