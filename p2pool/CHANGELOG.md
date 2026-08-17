@@ -1,4 +1,8 @@
 # Changelog since v3.2.0
+- Merge pull request #53 from casse-boubou/renovate/p2pool-4.x
+
+Update dependency P2Pool to v4.18 
+- Update dependency P2Pool to v4.18 
 - Update workflows 
 - Update Workflows 
 - Update ci.yaml 
