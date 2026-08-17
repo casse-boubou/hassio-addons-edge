@@ -1,4 +1,8 @@
 # Changelog since v3.3.0
+- Merge pull request #65 from casse-boubou/renovate/homeassistant-app-base-image
+
+⬆️ Update App Base Image to v21.0.2 
+- ⬆️ Update App Base Image to v21.0.2 
 - ⬆️ Update alpine_3_24/openjdk17-jre to v17.0.20_p8-r0 
 - Update workflows 
 - Update ci.yaml 
