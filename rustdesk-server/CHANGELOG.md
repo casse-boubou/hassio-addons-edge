@@ -1,4 +1,8 @@
 # Changelog since v0.2.2
+- Merge pull request #28 from casse-boubou/renovate/homeassistant-app-base-image
+
+⬆️ Update App Base Image to v21.0.2 
+- ⬆️ Update App Base Image to v21.0.2 
 - Update workflows 
 - Update ci.yaml 
 - migrate to app_config folder mapping
