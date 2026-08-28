@@ -1,23 +1,4 @@
-# Changelog since v0.2.2
-- Merge pull request #28 from casse-boubou/renovate/homeassistant-app-base-image
+# Changelog since v0.2.3
+- ⬆️ Update App Base Image to v21.0.3 (#29)
 
-⬆️ Update App Base Image to v21.0.2 
-- ⬆️ Update App Base Image to v21.0.2 
-- Update workflows 
-- Update ci.yaml 
-- migrate to app_config folder mapping
-
-Rename the deprecated `addon_config` folder mapping to the new
-`app_config` name introduced in Home Assistant Supervisor (https://github.com/home-assistant/supervisor/pull/6992) 
-- (Re)restore after test 
-- (Re)test renovate 
-- Restore after test 
-- Test Renovate 
-- Update renovate.json
-
-- Update renovate.json
-- Improve workflow
-- Improve dockerfile 
-- Update renovate.json 
-- Update renovate.json 
-- Update renovate.json 
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
