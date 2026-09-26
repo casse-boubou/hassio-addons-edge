@@ -1,4 +1,8 @@
 # Changelog since v3.3.0
+- Merge pull request #56 from casse-boubou/renovate/p2pool-4.x
+
+Update dependency P2Pool to v4.18.1 
+- Update dependency P2Pool to v4.18.1 
 - Update renovate.json 
 - Refactor Renovate configuration for GitHub Actions 
 - Add helper to pin GitHub Action digests to Semver 
