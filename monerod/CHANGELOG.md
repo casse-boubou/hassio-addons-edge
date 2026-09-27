@@ -1,4 +1,7 @@
 # Changelog since v0.6.0
+- ⬆️ Update App Base Image to v9.5.0 (#49)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Refactor packageRules in renovate.json
 
 Updated package rules to separate action and workflow dependency types. 
