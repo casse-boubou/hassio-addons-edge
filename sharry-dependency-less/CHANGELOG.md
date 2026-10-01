@@ -1,4 +1,7 @@
 # Changelog since v3.4.1
+- ⬆️ Update App Base Image to v21.0.7 (#87)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update App Base Image to v21.0.6 (#86)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
