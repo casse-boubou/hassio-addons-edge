@@ -1,4 +1,8 @@
 # Changelog since v3.4.1
+- Merge pull request #72 from casse-boubou/renovate/sharry-1.x
+
+Update dependency Sharry to v1.17.0 
+- Update dependency Sharry to v1.17.0 
 - ⬆️ Update App Base Image to v21.0.8 (#71)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
