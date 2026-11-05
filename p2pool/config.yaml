@@ -1,6 +1,6 @@
 name: P2Pool
 url: https://github.com/casse-boubou/addon-p2pool
-version: 92255be
+version: 0a38490
 slug: p2pool
 arch:
 - aarch64
