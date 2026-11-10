@@ -1,4 +1,7 @@
 # Changelog since v0.2.4
+- ⬆️ Update App Base Image to v21.0.11 (#38)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update App Base Image to v21.0.10 (#37)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
